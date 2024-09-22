@@ -1,0 +1,1178 @@
+PREDICATE,SUBJECT_NAME,OBJECT_NAME,Factuality_Score,Cancer_Type,Category,text
+PREVENTS,Therapeutic procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Therapeutic procedure Malignant neoplasm of breast
+PREVENTS,Gonadal Steroid Hormones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Gonadal Steroid Hormones Malignant neoplasm of breast
+PREVENTS,Estrogen Antagonists,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Antagonists Malignant neoplasm of breast
+PREVENTS,Vaccines,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Vaccines,Vaccines Malignant neoplasm of breast
+PREVENTS,Mastectomy,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Mastectomy Contralateral breast cancer
+PREVENTS,Chemotherapeutic agent,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,Chemotherapeutic agent Breast cancer metastatic
+PREVENTS,Selective Estrogen Receptor Modulators,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Selective Estrogen Receptor Modulators Malignant neoplasm of breast
+PREVENTS,"Radiotherapy, Adjuvant",Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,"Radiotherapy, Adjuvant Noninfiltrating Intraductal Carcinoma"
+PREVENTS,Local Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Local Therapy Malignant neoplasm of breast
+PREVENTS,Tamoxifen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Tamoxifen Malignant neoplasm of breast
+PREVENTS,Pharmaceutical Preparations,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Pharmaceutical Preparations Malignant neoplasm of breast
+METHOD_OF,Therapeutic procedure,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Therapeutic procedure breast cancer prevention
+PREVENTS,Dietary restriction NOS,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Dietary restriction NOS Malignant neoplasm of breast
+PREVENTS,Therapeutic procedure,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Therapeutic procedure Noninfiltrating Intraductal Carcinoma
+PREVENTS,Vitamin D,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin D Malignant neoplasm of breast
+PREVENTS,Chemotherapeutic agent,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Chemotherapeutic agent Malignant neoplasm of breast
+PREVENTS,Bilateral mastectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Bilateral mastectomy Malignant neoplasm of breast
+PREVENTS,"Diet, Fat-Restricted",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,"Diet, Fat-Restricted Malignant neoplasm of breast"
+PREVENTS,Estrogen Replacement Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Estrogen Replacement Therapy Malignant neoplasm of breast
+PREVENTS,Prophylactic treatment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Prophylactic treatment Malignant neoplasm of breast
+PREVENTS,Breast neoplasm screening,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Screening and Monitoring,Breast neoplasm screening Malignant neoplasm of breast
+PREVENTS,Mastectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mastectomy Malignant neoplasm of breast
+PREVENTS,Therapeutic procedure,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Therapeutic procedure Breast Carcinoma
+PREVENTS,Estrogen Receptors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Receptors Malignant neoplasm of breast
+PREVENTS,Selective Estrogen Receptor Modulators,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,Selective Estrogen Receptor Modulators Breast Carcinoma
+PREVENTS,Tamoxifen,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Hormonal Treatments,Tamoxifen Contralateral breast cancer
+PREVENTS,Tamoxifen,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Tamoxifen Breast cancer invasive NOS
+PREVENTS,Vitamin E,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin E Malignant neoplasm of breast
+PREVENTS,Selective Estrogen Receptor Modulators,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Hormonal Treatments,Selective Estrogen Receptor Modulators Contralateral breast cancer
+PREVENTS,Endocrine therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Endocrine therapy Breast cancer recurrent
+PREVENTS,"Fatty Acids, Omega-3",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,"Fatty Acids, Omega-3 Malignant neoplasm of breast"
+PREVENTS,Screening mammography,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Screening and Monitoring,Screening mammography Malignant neoplasm of breast
+PREVENTS,Operative Surgical Procedures,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Operative Surgical Procedures Malignant neoplasm of breast
+PREVENTS,Phytoestrogens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Phytoestrogens Malignant neoplasm of breast
+PREVENTS,Tamoxifen,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Tamoxifen Breast cancer recurrent
+PREVENTS,Tamoxifen,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Hormonal Treatments,Tamoxifen Noninfiltrating Intraductal Carcinoma
+PREVENTS,Metformin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Metformin Malignant neoplasm of breast
+PREVENTS,Estrogens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogens Malignant neoplasm of breast
+METHOD_OF,Dietary Modification,breast cancer prevention,0.0269730269730269,Other,Lifestyle Factors,Dietary Modification breast cancer prevention
+PREVENTS,Estrogen Receptor Modulators,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor Modulators Malignant neoplasm of breast
+PREVENTS,Estrogen Receptor beta,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor beta Malignant neoplasm of breast
+PREVENTS,Hormone replacement therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hormone replacement therapy Malignant neoplasm of breast
+PREVENTS,Radiation therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Radiation therapy Malignant neoplasm of breast
+PREVENTS,Bariatric Surgery,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Bariatric Surgery Malignant neoplasm of breast
+PREVENTS,Pharmacotherapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Pharmacotherapy Malignant neoplasm of breast
+PREVENTS,Chemoprevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Chemoprevention Malignant neoplasm of breast
+PREVENTS,Endocrine therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Endocrine therapy Malignant neoplasm of breast
+PREVENTS,Therapeutic procedure,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Therapeutic procedure Breast cancer recurrent
+PREVENTS,Cancer Vaccines,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Vaccines,Cancer Vaccines Breast Carcinoma
+PREVENTS,Aspirin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Aspirin Malignant neoplasm of breast
+PREVENTS,Vitamins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamins Malignant neoplasm of breast
+METHOD_OF,"Diet, Fat-Restricted",breast cancer prevention,0.0269730269730269,Other,Lifestyle Factors,"Diet, Fat-Restricted breast cancer prevention"
+PREVENTS,Pharmacotherapy,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Pharmacotherapy Breast cancer metastatic
+PREVENTS,Iron,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Iron Malignant neoplasm of breast
+PREVENTS,Reconstructive Surgical Procedures,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Reconstructive Surgical Procedures Breast Carcinoma
+PREVENTS,Vitamin B 12,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin B 12 Malignant neoplasm of breast
+PREVENTS,"Diet, Mediterranean",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,"Diet, Mediterranean Malignant neoplasm of breast"
+PREVENTS,Therapeutic procedure,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,Therapeutic procedure Breast cancer invasive NOS
+PREVENTS,Screening mammography,Breast cancer stage II,0.0,Female Breast Cancer,Screening and Monitoring,Screening mammography Breast cancer stage II
+PREVENTS,Pharmaceutical Preparations,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medications,Pharmaceutical Preparations Breast cancer invasive NOS
+PREVENTS,dietary intervention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,dietary intervention Malignant neoplasm of breast
+PREVENTS,mullerian-inhibiting hormone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,mullerian-inhibiting hormone Malignant neoplasm of breast
+PREVENTS,Vitamin D,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Supplements,Vitamin D Breast cancer recurrent
+PREVENTS,adjuvant therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,adjuvant therapy Breast cancer recurrent
+PREVENTS,dihydroxy-vitamin D3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,dihydroxy-vitamin D3 Malignant neoplasm of breast
+PREVENTS,Pharmacotherapy,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Pharmacotherapy Contralateral breast cancer
+PREVENTS,"Chemotherapy, Adjuvant",Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medications,"Chemotherapy, Adjuvant Breast cancer recurrent"
+PREVENTS,ESTROGENIC SUBSTANCES,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,ESTROGENIC SUBSTANCES Malignant neoplasm of breast
+PREVENTS,Calcium,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Calcium Malignant neoplasm of breast
+PREVENTS,Implantation procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Implantation procedure Malignant neoplasm of breast
+USES,Treatment Protocols,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Treatment Protocols breast cancer prevention
+PREVENTS,Supplementation,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Supplements,Supplementation Breast cancer metastatic
+PREVENTS,Vitamin supplementation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin supplementation Malignant neoplasm of breast
+PREVENTS,Estrogen Receptor alpha,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor alpha Breast Carcinoma
+PREVENTS,tamoxifen,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,tamoxifen Invasive carcinoma of breast
+PREVENTS,"Radiotherapy, Adjuvant",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Radiotherapy, Adjuvant Malignant neoplasm of breast"
+PREVENTS,progesterone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,progesterone Malignant neoplasm of breast
+PREVENTS,Behavior Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Behavior Therapy Malignant neoplasm of breast
+PREVENTS,Interventional procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interventional procedure Malignant neoplasm of breast
+PREVENTS,Phytochemicals,"Breast Cancer, Familial",0.0019980019980019,Female Breast Cancer,Environmental Factors,"Phytochemicals Breast Cancer, Familial"
+PREVENTS,Nuclear Hormone Receptors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Nuclear Hormone Receptors Malignant neoplasm of breast
+PREVENTS,tamoxifen,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Hormonal Treatments,tamoxifen Noninfiltrating Intraductal Carcinoma
+PREVENTS,Screening for malignant neoplasm of breast,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Screening and Monitoring,Screening for malignant neoplasm of breast Malignant neoplasm of breast
+PREVENTS,Hormone Therapy,contralateral breast cancer,0.0009990009990009,Female Breast Cancer,Medical Procedures,Hormone Therapy contralateral breast cancer
+PREVENTS,dietary intervention,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Lifestyle Factors,dietary intervention Breast cancer recurrent
+METHOD_OF,Pharmacotherapy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Pharmacotherapy breast cancer prevention
+PREVENTS,Hormone Receptor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Hormone Receptor Malignant neoplasm of breast
+PREVENTS,Selective Estrogen Receptor Modulators,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Selective Estrogen Receptor Modulators Breast cancer invasive NOS
+PREVENTS,Cancer Treatment,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Cancer Treatment Breast cancer recurrent
+PREVENTS,High residue diet,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,High residue diet Malignant neoplasm of breast
+PREVENTS,Progesterone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Progesterone Malignant neoplasm of breast
+PREVENTS,Antioestrogen therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Antioestrogen therapy Malignant neoplasm of breast
+PREVENTS,Medroxyprogesterone 17-Acetate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Medroxyprogesterone 17-Acetate Malignant neoplasm of breast
+PREVENTS,Androgens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Androgens Malignant neoplasm of breast
+PREVENTS,Dietary Modification,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Dietary Modification Malignant neoplasm of breast
+PREVENTS,Therapeutic procedure,Familial cancer of breast,0.0,Female Breast Cancer,Medical Procedures,Therapeutic procedure Familial cancer of breast
+PREVENTS,Chemopreventive Agent,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Chemopreventive Agent Malignant neoplasm of breast
+PREVENTS,Hormones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Hormones Malignant neoplasm of breast
+PREVENTS,Treatment Protocols,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Treatment Protocols Contralateral breast cancer
+PREVENTS,Steroid hormone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Steroid hormone Malignant neoplasm of breast
+PREVENTS,BRCA1 gene|BRCA1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Genetic Factors,BRCA1 gene|BRCA1 Malignant neoplasm of breast
+PREVENTS,Progestogen hormone therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Progestogen hormone therapy Malignant neoplasm of breast
+PREVENTS,Vaccination,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Vaccines,Vaccination Malignant neoplasm of breast
+METHOD_OF,Treatment Protocols,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Treatment Protocols breast cancer prevention
+PREVENTS,Pharmaceutical Preparations,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medications,Pharmaceutical Preparations Breast cancer recurrent
+PREVENTS,Operative Surgical Procedures,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Operative Surgical Procedures Breast cancer recurrent
+PREVENTS,Chemoprevention,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medications,Chemoprevention Breast cancer invasive NOS
+PREVENTS,Vaccines,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Vaccines,Vaccines Breast Carcinoma
+METHOD_OF,Tamoxifen,breast cancer prevention,0.0269730269730269,Other,Hormonal Treatments,Tamoxifen breast cancer prevention
+PREVENTS,Caloric Restriction,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Dietary Interventions,Caloric Restriction Malignant neoplasm of breast
+PREVENTS,"Vaccines, Peptide",Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Vaccines,"Vaccines, Peptide Breast cancer recurrent"
+METHOD_OF,adjuvant therapy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,adjuvant therapy breast cancer prevention
+PREVENTS,Pharmacotherapy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Pharmacotherapy Breast Carcinoma
+PREVENTS,Breast surgery,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Breast surgery Malignant neoplasm of breast
+PREVENTS,Tamoxifen Citrate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Tamoxifen Citrate Malignant neoplasm of breast
+PREVENTS,Therapeutic procedure,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Therapeutic procedure Breast cancer metastatic
+PREVENTS,Breast-Conserving Surgery,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Breast-Conserving Surgery Breast cancer recurrent
+PREVENTS,Radiation therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Radiation therapy Breast cancer recurrent
+PREVENTS,tamoxifen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,tamoxifen Malignant neoplasm of breast
+PREVENTS,fluvastatin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,fluvastatin Malignant neoplasm of breast
+PREVENTS,omega-3 fatty acids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,omega-3 fatty acids Malignant neoplasm of breast
+PREVENTS,Pharmacotherapy,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Pharmacotherapy Triple Negative Breast Neoplasms
+PREVENTS,Breast Therapy,contralateral breast cancer,0.0009990009990009,Female Breast Cancer,Medical Procedures,Breast Therapy contralateral breast cancer
+PREVENTS,Hormone Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hormone Therapy Malignant neoplasm of breast
+PREVENTS,estrogens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,estrogens Malignant neoplasm of breast
+PREVENTS,BRCA1 gene|BRCA1,"Breast Cancer, Familial",0.0019980019980019,Female Breast Cancer,Genetic Factors,"BRCA1 gene|BRCA1 Breast Cancer, Familial"
+PREVENTS,Antiretroviral therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Antiretroviral therapy Malignant neoplasm of breast
+PREVENTS,vitamin E,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,vitamin E Malignant neoplasm of breast
+PREVENTS,Radiation diet,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Radiation diet Malignant neoplasm of breast
+PREVENTS,"Mastectomy, Subcutaneous",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Mastectomy, Subcutaneous Malignant neoplasm of breast"
+PREVENTS,Bariatric Surgery,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Bariatric Surgery Triple Negative Breast Neoplasms
+PREVENTS,Hormone Therapy,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Hormone Therapy Noninfiltrating Intraductal Carcinoma
+PREVENTS,Cancer Vaccines,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Vaccines,Cancer Vaccines Triple Negative Breast Neoplasms
+PREVENTS,calcium,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,calcium Malignant neoplasm of breast
+PREVENTS,Tamoxifen,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,Tamoxifen Breast Carcinoma
+PREVENTS,Therapeutic procedure,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Therapeutic procedure Contralateral breast cancer
+PREVENTS,adjuvant therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,adjuvant therapy Malignant neoplasm of breast
+PREVENTS,Vaccines,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Vaccines,Vaccines Breast cancer recurrent
+PREVENTS,Pharmaceutical Preparations,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medications,Pharmaceutical Preparations Breast Carcinoma
+METHOD_OF,Chemoprevention,breast cancer prevention,0.0269730269730269,Other,Medications,Chemoprevention breast cancer prevention
+PREVENTS,anhydrovitamin A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,anhydrovitamin A Malignant neoplasm of breast
+PREVENTS,Vitamin A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin A Malignant neoplasm of breast
+PREVENTS,Vaccination,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Vaccines,Vaccination Breast Carcinoma
+PREVENTS,Adenovirus Vaccine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Vaccines,Adenovirus Vaccine Breast Carcinoma
+PREVENTS,Injection procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Injection procedure Malignant neoplasm of breast
+PREVENTS,pregnancy hormones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,pregnancy hormones Malignant neoplasm of breast
+PREVENTS,Environmental Pollutants,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Environmental Pollutants Malignant neoplasm of breast
+METHOD_OF,Procedures,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Procedures breast cancer prevention
+PREVENTS,"Vaccines, DNA",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Vaccines,"Vaccines, DNA Malignant neoplasm of breast"
+PREVENTS,Chemoprevention,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medications,Chemoprevention Breast Carcinoma
+PREVENTS,Exploration procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Exploration procedure Malignant neoplasm of breast
+PREVENTS,Supplementation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Supplementation Malignant neoplasm of breast
+PREVENTS,Chemotherapy-Oncologic Procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Chemotherapy-Oncologic Procedure Malignant neoplasm of breast
+PREVENTS,Immunotherapy,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Immunotherapy Breast cancer metastatic
+PREVENTS,Systemic Therapy,Inflammatory Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Systemic Therapy Inflammatory Breast Carcinoma
+PREVENTS,Non-Aspirin,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medications,Non-Aspirin Contralateral breast cancer
+PREVENTS,bone morphogenetic protein 6,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Genetic Factors,bone morphogenetic protein 6 Breast cancer metastatic
+PREVENTS,Combined Modality Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Combined Modality Therapy Malignant neoplasm of breast
+PREVENTS,Vegetarian diet,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Vegetarian diet Malignant neoplasm of breast
+PREVENTS,Estrogens,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Estrogens Breast cancer recurrent
+PREVENTS,Radiation therapy,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Radiation therapy Noninfiltrating Intraductal Carcinoma
+PREVENTS,Hormone Therapy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Hormone Therapy Breast Carcinoma
+PREVENTS,aspirin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,aspirin Malignant neoplasm of breast
+PREVENTS,Breast Cancer Therapeutic Procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Breast Cancer Therapeutic Procedure Malignant neoplasm of breast
+PREVENTS,Combined Modality Therapy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Combined Modality Therapy Breast Carcinoma
+PREVENTS,"Vaccines, Conjugate",Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Vaccines,"Vaccines, Conjugate Secondary malignant neoplasm of breast"
+PREVENTS,fiber,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Dietary Interventions,fiber Malignant neoplasm of breast
+PREVENTS,Cryotherapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cryotherapy Malignant neoplasm of breast
+PREVENTS,Pharmaceutical Preparations,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,Pharmaceutical Preparations Breast cancer metastatic
+PREVENTS,Oestrogen therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Oestrogen therapy Breast cancer recurrent
+PREVENTS,Pharmacotherapy,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,Pharmacotherapy Breast cancer invasive NOS
+PREVENTS,releasing hormones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,releasing hormones Malignant neoplasm of breast
+PREVENTS,Estrogen-progestin preparation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen-progestin preparation Malignant neoplasm of breast
+PREVENTS,Immunization,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Vaccines,Immunization Malignant neoplasm of breast
+PREVENTS,Oestrogen therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oestrogen therapy Malignant neoplasm of breast
+PREVENTS,Estrogen Receptor alpha,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor alpha Noninfiltrating Intraductal Carcinoma
+PREVENTS,Hormone manipulation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Hormone manipulation Malignant neoplasm of breast
+PREVENTS,Reconstructive Surgical Procedures,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Reconstructive Surgical Procedures Malignant neoplasm of breast
+PREVENTS,"Estrogens, Non-Steroidal",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,"Estrogens, Non-Steroidal Malignant neoplasm of breast"
+PREVENTS,BRCA2 gene|BRCA2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Genetic Factors,BRCA2 gene|BRCA2 Malignant neoplasm of breast
+METHOD_OF,Caloric Restriction,breast cancer prevention,0.0269730269730269,Other,Dietary Interventions,Caloric Restriction breast cancer prevention
+PREVENTS,Diet good,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Diet good Malignant neoplasm of breast
+PREVENTS,Androgen Receptor|AR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Androgen Receptor|AR Malignant neoplasm of breast
+PREVENTS,Vitamin B Complex,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin B Complex Malignant neoplasm of breast
+PREVENTS,Treatment Protocols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Treatment Protocols Malignant neoplasm of breast
+PREVENTS,Treatment Protocols,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Treatment Protocols Breast cancer recurrent
+PREVENTS,Vitamin B6,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin B6 Malignant neoplasm of breast
+PREVENTS,"Diet, Sodium-Restricted",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,"Diet, Sodium-Restricted Malignant neoplasm of breast"
+PREVENTS,Caloric Restriction,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Dietary Interventions,Caloric Restriction Breast cancer invasive NOS
+PREVENTS,Contralateral Prophylactic Mastectomy,contralateral breast cancer,0.0009990009990009,Female Breast Cancer,Medical Procedures,Contralateral Prophylactic Mastectomy contralateral breast cancer
+PREVENTS,Pharmaceutical Preparations,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medications,Pharmaceutical Preparations Triple Negative Breast Neoplasms
+PREVENTS,Anesthesia procedures,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Anesthesia procedures Malignant neoplasm of breast
+PREVENTS,Discussion (procedure),Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Discussion (procedure) Malignant neoplasm of breast
+PREVENTS,4-hydroxy-N-desmethyltamoxifen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,4-hydroxy-N-desmethyltamoxifen Malignant neoplasm of breast
+PREVENTS,Prophylactic Mastectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Prophylactic Mastectomy Malignant neoplasm of breast
+PREVENTS,metformin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,metformin Malignant neoplasm of breast
+PREVENTS,breast implant procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,breast implant procedure Malignant neoplasm of breast
+PREVENTS,Replacement therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Replacement therapy Malignant neoplasm of breast
+PREVENTS,Breast Cancer Treatment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Breast Cancer Treatment Malignant neoplasm of breast
+PREVENTS,Tamoxifen Citrate,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Tamoxifen Citrate Breast cancer invasive NOS
+PREVENTS,Estrogen Receptor alpha,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor alpha Malignant neoplasm of breast
+PREVENTS,Aspirin,Ductal Breast Carcinoma,0.0,Female Breast Cancer,Medications,Aspirin Ductal Breast Carcinoma
+COEXISTS_WITH,Assessment procedure,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Assessment procedure breast cancer prevention
+METHOD_OF,Screening procedure,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Screening procedure breast cancer prevention
+PREVENTS,Vaccines,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Vaccines,Vaccines Breast cancer metastatic
+PREVENTS,sodium-dependent vitamin C transporter 2|SLC23A2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,sodium-dependent vitamin C transporter 2|SLC23A2 Malignant neoplasm of breast
+PREVENTS,Immunization,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Vaccines,Immunization Breast Carcinoma
+PREVENTS,Bilateral mastectomy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Bilateral mastectomy Breast Carcinoma
+PREVENTS,oncostatin M|OSM,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,oncostatin M|OSM Breast cancer metastatic
+PREVENTS,Steroid hormone,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,Steroid hormone Breast Carcinoma
+PREVENTS,Cryosurgery,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cryosurgery Malignant neoplasm of breast
+PREVENTS,Chemotherapy-Oncologic Procedure,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medications,Chemotherapy-Oncologic Procedure Breast cancer recurrent
+PREVENTS,Logotherapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Logotherapy Malignant neoplasm of breast
+PREVENTS,adjuvant therapy,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,adjuvant therapy Breast cancer metastatic
+PREVENTS,Radiation therapy,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Radiation therapy Contralateral breast cancer
+PREVENTS,vitamin E,Carcinoma breast stage IV,0.0,Female Breast Cancer,Supplements,vitamin E Carcinoma breast stage IV
+PREVENTS,Topical Chemotherapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Topical Chemotherapy Malignant neoplasm of breast
+PREVENTS,tamoxifen,estrogen receptor-positive breast cancer,0.0,Female Breast Cancer,Hormonal Treatments,tamoxifen estrogen receptor-positive breast cancer
+PREVENTS,First line treatment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,First line treatment Malignant neoplasm of breast
+PREVENTS,estrogens,estrogen receptor-positive breast cancer,0.0,Female Breast Cancer,Hormonal Treatments,estrogens estrogen receptor-positive breast cancer
+PREVENTS,Estrogenic,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogenic Malignant neoplasm of breast
+PREVENTS,adjuvant therapy,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,adjuvant therapy Contralateral breast cancer
+PREVENTS,Maintenance therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Maintenance therapy Breast cancer recurrent
+PREVENTS,Hormones,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,Hormones Breast Carcinoma
+PREVENTS,Tamoxifen 20 MG,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Tamoxifen 20 MG Malignant neoplasm of breast
+PREVENTS,Injection procedure,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Injection procedure Breast Carcinoma
+PREVENTS,"Drugs, Non-Prescription",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,"Drugs, Non-Prescription Malignant neoplasm of breast"
+METHOD_OF,Bilateral mastectomy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Bilateral mastectomy breast cancer prevention
+METHOD_OF,dietary intervention,breast cancer prevention,0.0269730269730269,Other,Lifestyle Factors,dietary intervention breast cancer prevention
+PREVENTS,High carbohydrate diet,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,High carbohydrate diet Malignant neoplasm of breast
+PREVENTS,Exploration procedure,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Exploration procedure Breast cancer metastatic
+PREVENTS,Therapeutic procedure,Inflammatory Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Therapeutic procedure Inflammatory Breast Carcinoma
+PREVENTS,Cancer Treatment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cancer Treatment Malignant neoplasm of breast
+PREVENTS,Mastectomy,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Mastectomy Breast cancer metastatic
+PREVENTS,Pharmacotherapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Pharmacotherapy Breast cancer recurrent
+METHOD_OF,Endocrine therapy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Endocrine therapy breast cancer prevention
+PREVENTS,Screening mammography,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Screening and Monitoring,Screening mammography Breast Carcinoma
+METHOD_OF,Mastectomy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Mastectomy breast cancer prevention
+PREVENTS,Assessment procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Assessment procedure Malignant neoplasm of breast
+PREVENTS,Chemoprevention,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medications,Chemoprevention Breast cancer recurrent
+PREVENTS,Therapeutic procedure,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Therapeutic procedure Triple Negative Breast Neoplasms
+PREVENTS,Drug Delivery Systems,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medications,Drug Delivery Systems Triple Negative Breast Neoplasms
+PREVENTS,Interventional procedure,Basal-Like Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,Interventional procedure Basal-Like Breast Carcinoma
+PREVENTS,Targeted Therapy,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Targeted Therapy Triple Negative Breast Neoplasms
+PREVENTS,Phytochemicals,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Environmental Factors,Phytochemicals Malignant neoplasm of breast
+PREVENTS,Tissue Therapy,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Tissue Therapy Noninfiltrating Intraductal Carcinoma
+PREVENTS,"Radiotherapy, Intensity-Modulated",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Radiotherapy, Intensity-Modulated Malignant neoplasm of breast"
+PREVENTS,Selective Estrogen Receptor Modulators,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Selective Estrogen Receptor Modulators Breast cancer recurrent
+PREVENTS,Mastectomy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Mastectomy Breast cancer recurrent
+PREVENTS,Thoracic Surgical Procedures,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Thoracic Surgical Procedures Malignant neoplasm of breast
+PREVENTS,BRCA1 Protein|BRCA1,Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Genetic Factors,BRCA1 Protein|BRCA1 Sporadic Breast Carcinoma
+PREVENTS,BRCA1 gene|BRCA1,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Genetic Factors,BRCA1 gene|BRCA1 Breast cancer invasive NOS
+PREVENTS,Sex Hormone-Binding Globulin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Sex Hormone-Binding Globulin Malignant neoplasm of breast
+PREVENTS,Screening mammography,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Screening and Monitoring,Screening mammography Breast cancer recurrent
+METHOD_OF,"Mastectomy, Subcutaneous",breast cancer prevention,0.0269730269730269,Other,Medical Procedures,"Mastectomy, Subcutaneous breast cancer prevention"
+PREVENTS,Exogenous Hormone Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Exogenous Hormone Therapy Malignant neoplasm of breast
+PREVENTS,Fiber,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Dietary Interventions,Fiber Malignant neoplasm of breast
+PREVENTS,Estrogen Antagonists,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Hormonal Treatments,Estrogen Antagonists Contralateral breast cancer
+PREVENTS,Conjugated Equine Estrogens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Conjugated Equine Estrogens Malignant neoplasm of breast
+PREVENTS,BRCA2 gene|BRCA2,Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Genetic Factors,BRCA2 gene|BRCA2 Sporadic Breast Carcinoma
+PREVENTS,"Diet, Mediterranean",Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Lifestyle Factors,"Diet, Mediterranean Breast cancer invasive NOS"
+PREVENTS,"Drugs, Non-Prescription",Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,"Drugs, Non-Prescription Breast cancer metastatic"
+PREVENTS,Simvastatin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,Simvastatin Breast cancer metastatic
+PREVENTS,Chemotherapy-Oncologic Procedure,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medications,Chemotherapy-Oncologic Procedure Breast cancer invasive NOS
+PREVENTS,Vaccination,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Vaccines,Vaccination Breast cancer recurrent
+PREVENTS,autologous tumor cell vaccine,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Vaccines,autologous tumor cell vaccine Breast cancer recurrent
+PREVENTS,Estrogens,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Estrogens Breast cancer invasive NOS
+PREVENTS,Bariatric Surgery,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Bariatric Surgery Breast cancer recurrent
+PREVENTS,"Diet, Western",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,"Diet, Western Malignant neoplasm of breast"
+PREVENTS,"Exercise, Aerobic",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,"Exercise, Aerobic Malignant neoplasm of breast"
+PREVENTS,aspirin,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medications,aspirin Secondary malignant neoplasm of breast
+PREVENTS,Cytotoxic Chemotherapy,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medications,Cytotoxic Chemotherapy Triple Negative Breast Neoplasms
+PREVENTS,Gynecologic Surgical Procedures,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Gynecologic Surgical Procedures Malignant neoplasm of breast
+PREVENTS,Estrogen Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Estrogen Therapy Malignant neoplasm of breast
+PREVENTS,Adjuvant Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Adjuvant Therapy Malignant neoplasm of breast
+PREVENTS,Estrogen Receptor beta|EREG|ESR1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Estrogen Receptor beta|EREG|ESR1 Malignant neoplasm of breast
+PREVENTS,"Chemotherapy, Adjuvant",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,"Chemotherapy, Adjuvant Malignant neoplasm of breast"
+PREVENTS,Hormone replacement therapy,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Hormone replacement therapy Breast cancer recurrent
+PREVENTS,Dietary control,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Dietary control Malignant neoplasm of breast
+PREVENTS,Phytoestrogens,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Phytoestrogens Breast cancer recurrent
+PREVENTS,"Carcinogens, Environmental",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,"Carcinogens, Environmental Malignant neoplasm of breast"
+PREVENTS,"Carcinogens, Environmental",Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Supplements,"Carcinogens, Environmental Sporadic Breast Carcinoma"
+PREVENTS,Vitamin D3 Receptor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Vitamin D3 Receptor Malignant neoplasm of breast
+PREVENTS,Aspirin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medications,Aspirin Breast cancer metastatic
+PREVENTS,Lovastatin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medications,Lovastatin Malignant neoplasm of breast
+PREVENTS,Aspirin,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medications,Aspirin Breast cancer recurrent
+PREVENTS,Calcium Channel Blockers,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Supplements,Calcium Channel Blockers Malignant neoplasm of breast
+PREVENTS,Gonadotropin-Releasing Hormone Analog,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Gonadotropin-Releasing Hormone Analog Malignant neoplasm of breast
+PREVENTS,Hormones,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Hormones Breast cancer recurrent
+PREVENTS,Feeding and dietary regimes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Feeding and dietary regimes Malignant neoplasm of breast
+PREVENTS,Reducing diet,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Lifestyle Factors,Reducing diet Malignant neoplasm of breast
+PREVENTS,Complex Decongestive Therapy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Complex Decongestive Therapy Malignant neoplasm of breast
+PREVENTS,"estrogens, conjugated (USP)",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,"estrogens, conjugated (USP) Malignant neoplasm of breast"
+PREVENTS,Acupuncture procedure,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Acupuncture procedure Malignant neoplasm of breast
+PREVENTS,Melatonin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Melatonin Malignant neoplasm of breast
+PREVENTS,Mandibular right canine abutment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mandibular right canine abutment Malignant neoplasm of breast
+PREVENTS,Weight maintenance regimen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Weight maintenance regimen Malignant neoplasm of breast
+PREVENTS,Molecular Target,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Molecular Target Malignant neoplasm of breast
+PREVENTS,alpha-carotene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,alpha-carotene Malignant neoplasm of breast
+PREVENTS,LAMP3 Gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LAMP3 Gene Malignant neoplasm of breast
+PREVENTS,bindarit,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,bindarit Malignant neoplasm of breast
+PREVENTS,Genistein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Genistein Malignant neoplasm of breast
+PREVENTS,INPP5J,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,INPP5J Malignant neoplasm of breast
+PREVENTS,Proto-Oncogene Protein pp60 (c-src)|SRC,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Proto-Oncogene Protein pp60 (c-src)|SRC Breast cancer recurrent
+PREVENTS,c-fms Genes|CSF1R,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,c-fms Genes|CSF1R Breast cancer metastatic
+PREVENTS,CD8B1 gene|CD8B,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,CD8B1 gene|CD8B Breast cancer metastatic
+PREVENTS,arzoxifene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,arzoxifene Malignant neoplasm of breast
+PREVENTS,LGMN gene|LGMN,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LGMN gene|LGMN Malignant neoplasm of breast
+PREVENTS,SSTR2 gene|SSTR2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SSTR2 gene|SSTR2 Malignant neoplasm of breast
+PREVENTS,Aromatase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Aromatase Malignant neoplasm of breast
+PREVENTS,Thyroid antibody,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Thyroid antibody Malignant neoplasm of breast
+PREVENTS,Isoflavones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Isoflavones Malignant neoplasm of breast
+PREVENTS,Histidine Decarboxylase|HDC,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Histidine Decarboxylase|HDC Malignant neoplasm of breast
+PREVENTS,Interleukin-24,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interleukin-24 Malignant neoplasm of breast
+PREVENTS,MUC1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MUC1 Malignant neoplasm of breast
+PREVENTS,alpha-Fetoproteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,alpha-Fetoproteins Malignant neoplasm of breast
+PREVENTS,PRMT2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PRMT2 Malignant neoplasm of breast
+PREVENTS,CCNB1 gene|CCNB1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CCNB1 gene|CCNB1 Malignant neoplasm of breast
+METHOD_OF,Advice,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Advice breast cancer prevention
+PREVENTS,Toremifene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Toremifene Malignant neoplasm of breast
+PREVENTS,Raloxifene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Raloxifene Malignant neoplasm of breast
+PREVENTS,"9,10-Dimethyl-1,2-benzanthracene",Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,"9,10-Dimethyl-1,2-benzanthracene Breast Carcinoma"
+PREVENTS,rosiglitazone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,rosiglitazone Malignant neoplasm of breast
+PREVENTS,Excision,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Excision Malignant neoplasm of breast
+PREVENTS,lycopene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lycopene Malignant neoplasm of breast
+PREVENTS,beta-cryptoxanthin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,beta-cryptoxanthin Malignant neoplasm of breast
+PREVENTS,Retinoids,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Retinoids Breast cancer recurrent
+PREVENTS,limonene,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,limonene Breast Carcinoma
+PREVENTS,DXS435E|IGKV3D-20,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,DXS435E|IGKV3D-20 Malignant neoplasm of breast
+PREVENTS,Implants,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Implants Malignant neoplasm of breast
+PREVENTS,Surgical Replantation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Surgical Replantation Malignant neoplasm of breast
+PREVENTS,dehydroepiandrosterone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,dehydroepiandrosterone Malignant neoplasm of breast
+PREVENTS,Progestins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Progestins Malignant neoplasm of breast
+PREVENTS,Steroids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Steroids Malignant neoplasm of breast
+PREVENTS,retinol acetate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,retinol acetate Malignant neoplasm of breast
+PREVENTS,Carcinogens,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Carcinogens Malignant neoplasm of breast
+PREVENTS,Bilateral oophorectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Bilateral oophorectomy Malignant neoplasm of breast
+PREVENTS,Radicals (chemistry),Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Radicals (chemistry) Breast Carcinoma
+PREVENTS,CB-154,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,CB-154 Breast Carcinoma
+PREVENTS,Antioxidants,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Antioxidants Malignant neoplasm of breast
+PREVENTS,Aromatase Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Aromatase Inhibitors Malignant neoplasm of breast
+PREVENTS,Ovariectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ovariectomy Malignant neoplasm of breast
+PREVENTS,Fenretinide,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Fenretinide Contralateral breast cancer
+PREVENTS,Raloxifene,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Raloxifene Breast cancer invasive NOS
+PREVENTS,Lignans,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Lignans Malignant neoplasm of breast
+PREVENTS,Prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Prevention Malignant neoplasm of breast
+PREVENTS,Retinoids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Retinoids Malignant neoplasm of breast
+PREVENTS,Advance,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Advance Malignant neoplasm of breast
+PREVENTS,anastrozole,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,anastrozole Contralateral breast cancer
+PREVENTS,Folate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Folate Malignant neoplasm of breast
+PREVENTS,Azo derivative,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Azo derivative Malignant neoplasm of breast
+PREVENTS,LG 100268,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LG 100268 Malignant neoplasm of breast
+PREVENTS,Estradiol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Estradiol Malignant neoplasm of breast
+PREVENTS,thymalfasin,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,thymalfasin Breast Carcinoma
+PREVENTS,Ovarian ablation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ovarian ablation Malignant neoplasm of breast
+PREVENTS,Reduction mammaplasty,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Reduction mammaplasty Malignant neoplasm of breast
+PREVENTS,alpha Tocopherol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,alpha Tocopherol Malignant neoplasm of breast
+PREVENTS,Placebos,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Placebos Breast cancer invasive NOS
+PREVENTS,"9,11-linoleic acid, (E,Z)-isomer",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"9,11-linoleic acid, (E,Z)-isomer Malignant neoplasm of breast"
+PREVENTS,Human Chorionic Gonadotropin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Human Chorionic Gonadotropin Malignant neoplasm of breast
+PREVENTS,ERCC4 gene|ERCC4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ERCC4 gene|ERCC4 Malignant neoplasm of breast
+PREVENTS,Cyclooxygenase 2 Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cyclooxygenase 2 Inhibitors Malignant neoplasm of breast
+PREVENTS,AR gene|AR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,AR gene|AR Malignant neoplasm of breast
+PREVENTS,celecoxib,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,celecoxib Malignant neoplasm of breast
+PREVENTS,allyl sulfide,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,allyl sulfide Malignant neoplasm of breast
+PREVENTS,resveratrol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,resveratrol Malignant neoplasm of breast
+USES,research,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,research breast cancer prevention
+USES,Clinical Research,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Clinical Research breast cancer prevention
+PREVENTS,Propofol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Propofol Malignant neoplasm of breast
+PREVENTS,PTGS2 gene|PTGS2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PTGS2 gene|PTGS2 Malignant neoplasm of breast
+PREVENTS,IGF1R gene|IGF1R,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IGF1R gene|IGF1R Malignant neoplasm of breast
+PREVENTS,HMGB1 gene|HMGB1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,HMGB1 gene|HMGB1 Breast cancer metastatic
+PREVENTS,letrozole,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,letrozole Malignant neoplasm of breast
+PREVENTS,"Contraceptives, Oral",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Contraceptives, Oral Malignant neoplasm of breast"
+PREVENTS,VEGF gene|VEGFA,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,VEGF gene|VEGFA Malignant neoplasm of breast
+PREVENTS,PGR gene|PGR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PGR gene|PGR Malignant neoplasm of breast
+PREVENTS,lapatinib,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lapatinib Malignant neoplasm of breast
+PREVENTS,Leptin|LEP,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Leptin|LEP Malignant neoplasm of breast
+PREVENTS,receptor,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,receptor Breast Carcinoma
+PREVENTS,Aromatase Inhibitors,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Aromatase Inhibitors Breast cancer recurrent
+PREVENTS,Cyclooxygenase Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cyclooxygenase Inhibitors Malignant neoplasm of breast
+PREVENTS,Hysterectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hysterectomy Malignant neoplasm of breast
+PREVENTS,RANTES|CCL5,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,RANTES|CCL5 Breast cancer metastatic
+PREVENTS,WISP2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,WISP2 Malignant neoplasm of breast
+PREVENTS,MMP9 gene|MMP9,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MMP9 gene|MMP9 Malignant neoplasm of breast
+PREVENTS,vasodilator-stimulated phosphoprotein,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"vasodilator-stimulated phosphoprotein Carcinoma, Ductal, Breast"
+PREVENTS,calmodulin-dependent protein kinase II|CAMK2G,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,calmodulin-dependent protein kinase II|CAMK2G Breast cancer metastatic
+PREVENTS,Docosahexaenoic Acids,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Docosahexaenoic Acids Breast cancer metastatic
+PREVENTS,GSTM1 gene|GSTM1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,GSTM1 gene|GSTM1 Breast Carcinoma
+PREVENTS,benzyl isothiocyanate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,benzyl isothiocyanate Malignant neoplasm of breast
+PREVENTS,Bilateral salpingectomy with oophorectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Bilateral salpingectomy with oophorectomy Malignant neoplasm of breast
+PREVENTS,Adrenergic beta-Antagonists,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Adrenergic beta-Antagonists Malignant neoplasm of breast
+PREVENTS,sulforafan,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,sulforafan Malignant neoplasm of breast
+PREVENTS,Tretinoin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tretinoin Malignant neoplasm of breast
+PREVENTS,exemestane,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,exemestane Breast cancer recurrent
+PREVENTS,PRRT2,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,PRRT2 Breast cancer metastatic
+PREVENTS,MTUS1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,MTUS1 Breast Carcinoma
+PREVENTS,Testosterone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Testosterone Malignant neoplasm of breast
+PREVENTS,Carotenoids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Carotenoids Malignant neoplasm of breast
+PREVENTS,Cigarette smoke,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cigarette smoke Malignant neoplasm of breast
+PREVENTS,Celebrex,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Celebrex Malignant neoplasm of breast
+PREVENTS,indole-3-carbinol,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,indole-3-carbinol Breast Carcinoma
+PREVENTS,soy protein isolate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,soy protein isolate Malignant neoplasm of breast
+PREVENTS,Phenobarbital,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Phenobarbital Malignant neoplasm of breast
+METHOD_OF,educational intervention,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,educational intervention breast cancer prevention
+PREVENTS,zoledronic acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,zoledronic acid Malignant neoplasm of breast
+COEXISTS_WITH,Intervention regimes,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Intervention regimes breast cancer prevention
+PREVENTS,ORALIT,Female Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,ORALIT Female Breast Carcinoma
+PREVENTS,Oxidoreductase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oxidoreductase Malignant neoplasm of breast
+PREVENTS,ERBB2|NEU1|NEURL1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ERBB2|NEU1|NEURL1 Malignant neoplasm of breast
+METHOD_OF,intervention program,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,intervention program breast cancer prevention
+PREVENTS,daidzein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,daidzein Malignant neoplasm of breast
+COEXISTS_WITH,Health Services,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Health Services breast cancer prevention
+PREVENTS,breast cancer prevention,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,breast cancer prevention Breast cancer invasive NOS
+PREVENTS,GSTP1 gene|GSTP1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,GSTP1 gene|GSTP1 Malignant neoplasm of breast
+PREVENTS,FASTK Gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FASTK Gene Malignant neoplasm of breast
+PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hydroxymethylglutaryl-CoA Reductase Inhibitors Malignant neoplasm of breast
+PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Anti-Inflammatory Agents, Non-Steroidal Malignant neoplasm of breast"
+PREVENTS,SLC12A2,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,SLC12A2 Noninfiltrating Intraductal Carcinoma
+PREVENTS,CHD5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CHD5 Malignant neoplasm of breast
+PREVENTS,UCHL1 Antigens,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,UCHL1 Antigens Breast cancer recurrent
+PREVENTS,fucoxanthinol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,fucoxanthinol Malignant neoplasm of breast
+PREVENTS,DNAJB6,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,DNAJB6 Malignant neoplasm of breast
+PREVENTS,Beta Carotene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Beta Carotene Malignant neoplasm of breast
+PREVENTS,anastrozole,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,anastrozole Malignant neoplasm of breast
+PREVENTS,Reduction - action,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Reduction - action Contralateral breast cancer
+PREVENTS,Flavonoids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Flavonoids Malignant neoplasm of breast
+PREVENTS,Termination of pregnancy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Termination of pregnancy Malignant neoplasm of breast
+PREVENTS,epigallocatechin gallate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,epigallocatechin gallate Malignant neoplasm of breast
+PREVENTS,exemestane,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,exemestane Malignant neoplasm of breast
+PREVENTS,Alleles,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Alleles Malignant neoplasm of breast
+PREVENTS,Salpingo-oophorectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Salpingo-oophorectomy Malignant neoplasm of breast
+PREVENTS,Analog,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Analog Malignant neoplasm of breast
+USES,"Clinical Trials, Phase II",breast cancer prevention,0.0269730269730269,Other,Medical Procedures,"Clinical Trials, Phase II breast cancer prevention"
+PREVENTS,CADM1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CADM1 Malignant neoplasm of breast
+PREVENTS,Mevalonic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mevalonic Acid Malignant neoplasm of breast
+PREVENTS,heparanase|HPSE,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,heparanase|HPSE Breast cancer metastatic
+PREVENTS,FOXA1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FOXA1 Malignant neoplasm of breast
+PREVENTS,4-Aminobutyrate aminotransferase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,4-Aminobutyrate aminotransferase Malignant neoplasm of breast
+PREVENTS,polyphenols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,polyphenols Malignant neoplasm of breast
+PREVENTS,Poisons,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Poisons Malignant neoplasm of breast
+PREVENTS,"FRAP1 protein, human|MTOR",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"FRAP1 protein, human|MTOR Malignant neoplasm of breast"
+PREVENTS,perfluorooctane sulfonic acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,perfluorooctane sulfonic acid Malignant neoplasm of breast
+PREVENTS,Diphosphonates,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Diphosphonates Breast cancer recurrent
+PREVENTS,HIC1 gene|HIC1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HIC1 gene|HIC1 Malignant neoplasm of breast
+PREVENTS,Cups,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cups Malignant neoplasm of breast
+PREVENTS,Nik related kinase|MAP3K14|MAP4K4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Nik related kinase|MAP3K14|MAP4K4 Malignant neoplasm of breast
+PREVENTS,CHCHD2 gene|CHCHD2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CHCHD2 gene|CHCHD2 Malignant neoplasm of breast
+PREVENTS,heparanase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,heparanase Malignant neoplasm of breast
+PREVENTS,"CCNE1 protein, human|CCNE1",Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,"CCNE1 protein, human|CCNE1 Breast Carcinoma"
+PREVENTS,Aromatase Inhibitors,contralateral breast cancer,0.0009990009990009,Female Breast Cancer,Medical Procedures,Aromatase Inhibitors contralateral breast cancer
+PREVENTS,Hemostatic gauze,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hemostatic gauze Malignant neoplasm of breast
+PREVENTS,"Fatty Acids, Volatile",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Fatty Acids, Volatile Malignant neoplasm of breast"
+PREVENTS,ZNF350 gene|ZNF350,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ZNF350 gene|ZNF350 Malignant neoplasm of breast
+PREVENTS,ergocalciferol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ergocalciferol Malignant neoplasm of breast
+PREVENTS,ropivacaine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ropivacaine Malignant neoplasm of breast
+PREVENTS,Polyunsaturated Fatty Acids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Polyunsaturated Fatty Acids Malignant neoplasm of breast
+PREVENTS,IMPACT gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IMPACT gene Malignant neoplasm of breast
+PREVENTS,TNS4 gene|TNS4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TNS4 gene|TNS4 Malignant neoplasm of breast
+PREVENTS,WASF1 gene|WASF1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,WASF1 gene|WASF1 Breast Carcinoma
+PREVENTS,Animal protein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Animal protein Malignant neoplasm of breast
+PREVENTS,Antineoplastic Agents,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Antineoplastic Agents Carcinoma breast stage IV
+PREVENTS,"CD69 protein, human|CD69",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"CD69 protein, human|CD69 Malignant neoplasm of breast"
+PREVENTS,DIRAS3 gene|DIRAS3,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,DIRAS3 gene|DIRAS3 Carcinoma breast stage IV
+PREVENTS,ALDH1A1 gene|ALDH1A1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ALDH1A1 gene|ALDH1A1 Malignant neoplasm of breast
+PREVENTS,Botanical,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Botanical Malignant neoplasm of breast
+PREVENTS,raloxifene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,raloxifene Malignant neoplasm of breast
+PREVENTS,Micelles,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Micelles Triple Negative Breast Neoplasms
+PREVENTS,METTL3 gene|METTL3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,METTL3 gene|METTL3 Malignant neoplasm of breast
+PREVENTS,HPSE2 gene|HPSE2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HPSE2 gene|HPSE2 Malignant neoplasm of breast
+PREVENTS,AK4 gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,AK4 gene Malignant neoplasm of breast
+PREVENTS,exemestane,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,exemestane Contralateral breast cancer
+PREVENTS,Benzofurans,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Benzofurans Malignant neoplasm of breast
+PREVENTS,Solanine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Solanine Malignant neoplasm of breast
+PREVENTS,sorafenib,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,sorafenib Malignant neoplasm of breast
+PREVENTS,CXCL12 gene|CXCL12,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,CXCL12 gene|CXCL12 Breast cancer metastatic
+PREVENTS,Interleukin-6|IL6,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"Interleukin-6|IL6 Carcinoma, Ductal, Breast"
+PREVENTS,NTN4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,NTN4 Malignant neoplasm of breast
+PREVENTS,Thymectomy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Thymectomy Breast Carcinoma
+PREVENTS,methyl 4-hydroxyphenyllactate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,methyl 4-hydroxyphenyllactate Malignant neoplasm of breast
+PREVENTS,Monoterpenes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Monoterpenes Malignant neoplasm of breast
+PREVENTS,Detection,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Detection Malignant neoplasm of breast
+PREVENTS,Retinoids,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Retinoids Breast Carcinoma
+PREVENTS,Contraceptive Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Contraceptive Agents Malignant neoplasm of breast
+PREVENTS,Prolactin|PRL,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Prolactin|PRL Malignant neoplasm of breast
+PREVENTS,retinol acetate,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,retinol acetate Breast Carcinoma
+PREVENTS,Insulin-Like Growth Factor I,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Insulin-Like Growth Factor I Malignant neoplasm of breast
+PREVENTS,Induction,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Induction Breast cancer invasive NOS
+PREVENTS,Arzoxifene Hydrochloride,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Arzoxifene Hydrochloride Malignant neoplasm of breast
+PREVENTS,tibolone,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,tibolone Breast Carcinoma
+PREVENTS,Induction,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Induction Malignant neoplasm of breast
+PREVENTS,Carbogen Breathing,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Carbogen Breathing Breast Carcinoma
+PREVENTS,ATM gene|ATM,Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,ATM gene|ATM Sporadic Breast Carcinoma
+PREVENTS,cancer prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cancer prevention Malignant neoplasm of breast
+METHOD_OF,Patient referral,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Patient referral breast cancer prevention
+PREVENTS,indole-3-carbinol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,indole-3-carbinol Malignant neoplasm of breast
+PREVENTS,Ovariectomy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Ovariectomy Breast Carcinoma
+PREVENTS,Tocopherols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tocopherols Malignant neoplasm of breast
+PREVENTS,alitretinoin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,alitretinoin Malignant neoplasm of breast
+METHOD_OF,Placebos,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Placebos breast cancer prevention
+PREVENTS,Phytosterols,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Phytosterols Breast cancer metastatic
+PREVENTS,phytobacteriomycin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,phytobacteriomycin Malignant neoplasm of breast
+PREVENTS,Risk Reduction,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Risk Reduction Malignant neoplasm of breast
+PREVENTS,SPDEF,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,SPDEF Breast cancer invasive NOS
+PREVENTS,Pharmacologic Substance,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Pharmacologic Substance Malignant neoplasm of breast
+PREVENTS,Ethanol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ethanol Malignant neoplasm of breast
+PREVENTS,SHC1 gene|SHC1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SHC1 gene|SHC1 Malignant neoplasm of breast
+PREVENTS,"dibenzo(1,4)dioxin",Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,"dibenzo(1,4)dioxin Breast Carcinoma"
+PREVENTS,Aromatase Inhibitors,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Aromatase Inhibitors Contralateral breast cancer
+PREVENTS,Lasofoxifene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Lasofoxifene Malignant neoplasm of breast
+PREVENTS,Complement System Proteins,Familial cancer of breast,0.0,Female Breast Cancer,Medical Procedures,Complement System Proteins Familial cancer of breast
+PREVENTS,ID3,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,ID3 Breast cancer metastatic
+PREVENTS,ID1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,ID1 Breast cancer metastatic
+PREVENTS,diindolylmethane,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,diindolylmethane Malignant neoplasm of breast
+METHOD_OF,Intervention regimes,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Intervention regimes breast cancer prevention
+PREVENTS,"RNA, Messenger",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"RNA, Messenger Malignant neoplasm of breast"
+PREVENTS,Feeding practice,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Feeding practice Malignant neoplasm of breast
+PREVENTS,IRF1 gene|IRF1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IRF1 gene|IRF1 Malignant neoplasm of breast
+PREVENTS,Transforming Growth Factor beta,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Transforming Growth Factor beta Malignant neoplasm of breast
+PREVENTS,Diphosphonates,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Diphosphonates Malignant neoplasm of breast
+PREVENTS,"Markers, Bone",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Markers, Bone Malignant neoplasm of breast"
+PREVENTS,C3|ERVK-2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,C3|ERVK-2 Malignant neoplasm of breast
+PREVENTS,Candidate Disease Gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Candidate Disease Gene Malignant neoplasm of breast
+PREVENTS,ERBB2 gene|ERBB2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ERBB2 gene|ERBB2 Malignant neoplasm of breast
+PREVENTS,"Ribosomal Protein S6 Kinases, 70-kDa|RPS6KB1",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Ribosomal Protein S6 Kinases, 70-kDa|RPS6KB1 Malignant neoplasm of breast"
+PREVENTS,"PTH protein, human|PTH",Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,"PTH protein, human|PTH Breast cancer metastatic"
+PREVENTS,Paclitaxel,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Paclitaxel Malignant neoplasm of breast
+PREVENTS,hepatocellular carcinoma protein 1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,hepatocellular carcinoma protein 1 Malignant neoplasm of breast
+PREVENTS,zoledronic acid,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,zoledronic acid Breast cancer recurrent
+PREVENTS,Primary Prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Primary Prevention Malignant neoplasm of breast
+PREVENTS,"Linoleic Acids, Conjugated",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Linoleic Acids, Conjugated Malignant neoplasm of breast"
+PREVENTS,Curcumin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Curcumin Breast cancer metastatic
+PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Hydroxymethylglutaryl-CoA Reductase Inhibitors Breast cancer recurrent
+PREVENTS,APRIN gene|PDS5B,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,APRIN gene|PDS5B Malignant neoplasm of breast
+PREVENTS,TSC2 gene|TSC2,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,TSC2 gene|TSC2 Breast cancer invasive NOS
+PREVENTS,arzoxifene,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,arzoxifene Breast cancer invasive NOS
+PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,"Anti-Inflammatory Agents, Non-Steroidal Contralateral breast cancer"
+PREVENTS,Fish Oils,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Fish Oils Breast cancer metastatic
+PREVENTS,mammaglobin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,mammaglobin Malignant neoplasm of breast
+PREVENTS,D factor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,D factor Malignant neoplasm of breast
+PREVENTS,Soy Proteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Soy Proteins Malignant neoplasm of breast
+PREVENTS,Flavonols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Flavonols Malignant neoplasm of breast
+PREVENTS,Betaine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Betaine Malignant neoplasm of breast
+PREVENTS,Mammaplasty,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mammaplasty Malignant neoplasm of breast
+PREVENTS,nobiletin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,nobiletin Malignant neoplasm of breast
+PREVENTS,Threonine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Threonine Malignant neoplasm of breast
+PREVENTS,ezrin|EZR,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,ezrin|EZR Breast cancer metastatic
+PREVENTS,Phytic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Phytic Acid Malignant neoplasm of breast
+PREVENTS,PGRMC2,Breast cancer stage II,0.0,Female Breast Cancer,Medical Procedures,PGRMC2 Breast cancer stage II
+PREVENTS,tetrathiomolybdate,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,tetrathiomolybdate Breast Carcinoma
+PREVENTS,ERBB2 gene|ERBB2,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,ERBB2 gene|ERBB2 Breast cancer invasive NOS
+PREVENTS,Hydroxyestrones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hydroxyestrones Malignant neoplasm of breast
+PREVENTS,GTPase-Activating Proteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,GTPase-Activating Proteins Malignant neoplasm of breast
+PREVENTS,SASH1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SASH1 Malignant neoplasm of breast
+PREVENTS,tibolone,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,tibolone Breast cancer invasive NOS
+PREVENTS,Detection,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Detection Noninfiltrating Intraductal Carcinoma
+PREVENTS,CDON gene|CDON,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CDON gene|CDON Malignant neoplasm of breast
+PREVENTS,everolimus,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,everolimus Noninfiltrating Intraductal Carcinoma
+PREVENTS,Regulatory Protein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Regulatory Protein Malignant neoplasm of breast
+PREVENTS,Conjugated Linoleic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Conjugated Linoleic Acid Malignant neoplasm of breast
+PREVENTS,RAD51 gene|RAD51,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RAD51 gene|RAD51 Malignant neoplasm of breast
+PREVENTS,RAD52 gene|RAD52,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RAD52 gene|RAD52 Malignant neoplasm of breast
+PREVENTS,UBA7 gene|UBA7,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UBA7 gene|UBA7 Malignant neoplasm of breast
+PREVENTS,MTSS1 gene|MTSS1,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,MTSS1 gene|MTSS1 Invasive carcinoma of breast
+PREVENTS,LINC00324 gene|LINC00324,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LINC00324 gene|LINC00324 Malignant neoplasm of breast
+PREVENTS,IMPACT gene,Inflammatory Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,IMPACT gene Inflammatory Breast Carcinoma
+PREVENTS,Prostaglandins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Prostaglandins Malignant neoplasm of breast
+PREVENTS,ornithine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ornithine Malignant neoplasm of breast
+PREVENTS,LIMK2 gene|LIMK2,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,LIMK2 gene|LIMK2 Triple Negative Breast Neoplasms
+PREVENTS,Duration,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Duration Malignant neoplasm of breast
+PREVENTS,CA13 gene|CA13,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,CA13 gene|CA13 Carcinoma breast stage IV
+PREVENTS,Interleukin-1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interleukin-1 Malignant neoplasm of breast
+PREVENTS,TP53 gene|TP53,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TP53 gene|TP53 Malignant neoplasm of breast
+PREVENTS,"Fatty Acids, Monounsaturated",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Fatty Acids, Monounsaturated Malignant neoplasm of breast"
+PREVENTS,hyaluronic acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,hyaluronic acid Malignant neoplasm of breast
+PREVENTS,SH3BGRL gene|SH3BGRL,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SH3BGRL gene|SH3BGRL Malignant neoplasm of breast
+PREVENTS,TBC1D9 gene|TBC1D9,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,TBC1D9 gene|TBC1D9 Triple Negative Breast Neoplasms
+PREVENTS,jujuboside B,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,jujuboside B Malignant neoplasm of breast
+PREVENTS,Cadherins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cadherins Malignant neoplasm of breast
+PREVENTS,Growth Factor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Growth Factor Malignant neoplasm of breast
+PREVENTS,olive oil,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,olive oil Malignant neoplasm of breast
+PREVENTS,uric acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,uric acid Malignant neoplasm of breast
+PREVENTS,SPARC gene|SPARC,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SPARC gene|SPARC Malignant neoplasm of breast
+PREVENTS,"FRAP1 protein, human|MTOR",estrogen receptor-negative breast cancer,0.0,Female Breast Cancer,Hormonal Treatments,"FRAP1 protein, human|MTOR estrogen receptor-negative breast cancer"
+PREVENTS,NF-kappa B,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,NF-kappa B Invasive carcinoma of breast
+PREVENTS,Healthy Eating Index,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Healthy Eating Index Malignant neoplasm of breast
+PREVENTS,Voltage-Dependent Anion Channel 1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Voltage-Dependent Anion Channel 1 Malignant neoplasm of breast
+PREVENTS,VIRMA gene|VIRMA,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,VIRMA gene|VIRMA Malignant neoplasm of breast
+PREVENTS,euphorbia factor L1,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,euphorbia factor L1 Secondary malignant neoplasm of breast
+PREVENTS,Cyclin-Dependent Kinase Inhibitor p16|CDKN2A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cyclin-Dependent Kinase Inhibitor p16|CDKN2A Malignant neoplasm of breast
+PREVENTS,resveratrol,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,resveratrol Secondary malignant neoplasm of breast
+PREVENTS,cabergoline,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cabergoline Malignant neoplasm of breast
+PREVENTS,Hemocoagulase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hemocoagulase Malignant neoplasm of breast
+PREVENTS,COG2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,COG2 Malignant neoplasm of breast
+PREVENTS,Reexcision,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Reexcision Malignant neoplasm of breast
+PREVENTS,zeaxanthin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,zeaxanthin Malignant neoplasm of breast
+PREVENTS,Melatonin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Melatonin Breast cancer metastatic
+PREVENTS,CD4 gene|CD4,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,CD4 gene|CD4 Breast cancer metastatic
+PREVENTS,F2RL2|PARD3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,F2RL2|PARD3 Malignant neoplasm of breast
+PREVENTS,Apigenin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Apigenin Malignant neoplasm of breast
+PREVENTS,Proto-Oncogenes,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Proto-Oncogenes Breast cancer metastatic
+PREVENTS,Tumor Suppressor Genes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tumor Suppressor Genes Malignant neoplasm of breast
+PREVENTS,early identification,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,early identification Malignant neoplasm of breast
+PREVENTS,Amino Acids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Amino Acids Malignant neoplasm of breast
+PREVENTS,"TGFB1 protein, human|TGFB1",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"TGFB1 protein, human|TGFB1 Malignant neoplasm of breast"
+PREVENTS,Methylnitrosourea,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Methylnitrosourea Malignant neoplasm of breast
+PREVENTS,Prevention,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Prevention Breast cancer recurrent
+PREVENTS,breast cancer prevention,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,breast cancer prevention Noninfiltrating Intraductal Carcinoma
+PREVENTS,Contraceptive methods,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Contraceptive methods Malignant neoplasm of breast
+PREVENTS,Procarbazine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Procarbazine Breast Carcinoma
+PREVENTS,Clomiphene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Clomiphene Malignant neoplasm of breast
+PREVENTS,Fenretinide,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Fenretinide Malignant neoplasm of breast
+PREVENTS,Human Chorionic Gonadotropin,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Human Chorionic Gonadotropin Breast Carcinoma
+PREVENTS,Fatty acid glycerol esters,bilateral breast cancer,0.0,Female Breast Cancer,Medical Procedures,Fatty acid glycerol esters bilateral breast cancer
+PREVENTS,isoflavonoids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,isoflavonoids Malignant neoplasm of breast
+PREVENTS,Scourge,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Scourge Malignant neoplasm of breast
+PREVENTS,Selenium,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Selenium Malignant neoplasm of breast
+PREVENTS,2-hydroxyestrone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,2-hydroxyestrone Malignant neoplasm of breast
+USES,research study,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,research study breast cancer prevention
+PREVENTS,Catechol O-Methyltransferase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Catechol O-Methyltransferase Malignant neoplasm of breast
+PREVENTS,Splenectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Splenectomy Malignant neoplasm of breast
+PREVENTS,PPAR gamma,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PPAR gamma Malignant neoplasm of breast
+PREVENTS,Inositol,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Inositol Breast Carcinoma
+PREVENTS,synthetic peptide,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,synthetic peptide Malignant neoplasm of breast
+PREVENTS,Telomerase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Telomerase Malignant neoplasm of breast
+PREVENTS,High Density Lipoprotein Cholesterol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,High Density Lipoprotein Cholesterol Malignant neoplasm of breast
+PREVENTS,Tocotrienols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tocotrienols Malignant neoplasm of breast
+PREVENTS,"tocotrienol, delta",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"tocotrienol, delta Malignant neoplasm of breast"
+PREVENTS,FASN gene|FASN,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FASN gene|FASN Malignant neoplasm of breast
+PREVENTS,related compounds,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,related compounds Malignant neoplasm of breast
+PREVENTS,Protein Kinase C Alpha,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"Protein Kinase C Alpha Carcinoma, Ductal, Breast"
+PREVENTS,AR gene|AR,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,AR gene|AR Breast cancer recurrent
+PREVENTS,Cholesterol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cholesterol Malignant neoplasm of breast
+PREVENTS,CFP,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CFP Malignant neoplasm of breast
+PREVENTS,"1,4-dioxin",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"1,4-dioxin Malignant neoplasm of breast"
+PREVENTS,Benzoic Acid,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Benzoic Acid Breast cancer metastatic
+PREVENTS,PTPN1 gene|PTPN1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PTPN1 gene|PTPN1 Malignant neoplasm of breast
+PREVENTS,Oleic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oleic Acid Malignant neoplasm of breast
+PREVENTS,glutathione S-transferase M1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,glutathione S-transferase M1 Malignant neoplasm of breast
+PREVENTS,PGR gene|PGR,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,PGR gene|PGR Noninfiltrating Intraductal Carcinoma
+PREVENTS,Etidronate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Etidronate Malignant neoplasm of breast
+PREVENTS,FLT1 gene|FLT1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FLT1 gene|FLT1 Malignant neoplasm of breast
+PREVENTS,Calpain,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Calpain Breast cancer metastatic
+USES,"Clinical Trials, Phase III",breast cancer prevention,0.0269730269730269,Other,Medical Procedures,"Clinical Trials, Phase III breast cancer prevention"
+PREVENTS,Interleukin-6,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interleukin-6 Malignant neoplasm of breast
+PREVENTS,RPS6KA5 gene|RPS6KA5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RPS6KA5 gene|RPS6KA5 Malignant neoplasm of breast
+PREVENTS,Transforming Growth Factor beta,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Transforming Growth Factor beta Breast cancer metastatic
+PREVENTS,nephronectin|NPNT,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,nephronectin|NPNT Breast Carcinoma
+PREVENTS,SULT1E1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SULT1E1 Malignant neoplasm of breast
+PREVENTS,ARHGEF5 gene|ARHGEF5,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,ARHGEF5 gene|ARHGEF5 Breast cancer metastatic
+PREVENTS,Taurine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Taurine Malignant neoplasm of breast
+PREVENTS,Curcumin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Curcumin Malignant neoplasm of breast
+PREVENTS,Pecten spp. extract,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Pecten spp. extract Malignant neoplasm of breast
+PREVENTS,letrozole,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,letrozole Breast cancer metastatic
+PREVENTS,letrozole,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,letrozole Breast cancer recurrent
+PREVENTS,Mandibular right lateral incisor abutment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mandibular right lateral incisor abutment Malignant neoplasm of breast
+PREVENTS,bilirubin uridine-diphosphoglucuronosyl transferase 1A10|UGT1A10,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,bilirubin uridine-diphosphoglucuronosyl transferase 1A10|UGT1A10 Malignant neoplasm of breast
+PREVENTS,SUN1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SUN1 Malignant neoplasm of breast
+PREVENTS,lipofectamine 2000,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lipofectamine 2000 Malignant neoplasm of breast
+PREVENTS,ARL6IP5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ARL6IP5 Malignant neoplasm of breast
+PREVENTS,Tubal sterilization,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tubal sterilization Malignant neoplasm of breast
+PREVENTS,Glutamine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Glutamine Malignant neoplasm of breast
+PREVENTS,Human Chorionic Gonadotropin|CGA|HTC2|CGB5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Human Chorionic Gonadotropin|CGA|HTC2|CGB5 Malignant neoplasm of breast
+PREVENTS,celecoxib,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,celecoxib Breast Carcinoma
+PREVENTS,MTRR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MTRR Malignant neoplasm of breast
+PREVENTS,C2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,C2 Malignant neoplasm of breast
+PREVENTS,FST gene|FST,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FST gene|FST Malignant neoplasm of breast
+PREVENTS,Placebos,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Placebos Malignant neoplasm of breast
+PREVENTS,maspin|SERPINB5,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,maspin|SERPINB5 Breast cancer metastatic
+PREVENTS,prevention through information dissemination,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,prevention through information dissemination Malignant neoplasm of breast
+PREVENTS,Phenylalanine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Phenylalanine Malignant neoplasm of breast
+PREVENTS,celecoxib,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,celecoxib Breast cancer recurrent
+PREVENTS,Epidermal growth factor receptor inhibitor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Epidermal growth factor receptor inhibitor Malignant neoplasm of breast
+PREVENTS,Steroidal Aromatase Inhibitor,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Steroidal Aromatase Inhibitor Breast cancer invasive NOS
+PREVENTS,Fertility Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Fertility Agents Malignant neoplasm of breast
+PREVENTS,HIF1alpha protein,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,HIF1alpha protein Breast Carcinoma
+PREVENTS,ACACA|BMS1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ACACA|BMS1 Malignant neoplasm of breast
+PREVENTS,Diterpenes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Diterpenes Malignant neoplasm of breast
+PREVENTS,Niacinamide,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Niacinamide Breast cancer recurrent
+PREVENTS,neem oil,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,neem oil Malignant neoplasm of breast
+PREVENTS,Matrix Metalloproteinase Inhibitors,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Matrix Metalloproteinase Inhibitors Carcinoma breast stage IV
+PREVENTS,propranolol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,propranolol Malignant neoplasm of breast
+PREVENTS,MIR494 gene|MIR494,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIR494 gene|MIR494 Malignant neoplasm of breast
+PREVENTS,Resistance Training,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Resistance Training Malignant neoplasm of breast
+PREVENTS,FBXW7 gene|FBXW7,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,FBXW7 gene|FBXW7 Breast Carcinoma
+PREVENTS,HOXB3 gene|HOXB3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HOXB3 gene|HOXB3 Malignant neoplasm of breast
+PREVENTS,Proton Pump Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Proton Pump Inhibitors Malignant neoplasm of breast
+PREVENTS,NF-kappa B,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,NF-kappa B Malignant neoplasm of breast
+PREVENTS,C-reactive protein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,C-reactive protein Malignant neoplasm of breast
+PREVENTS,zinc,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,zinc Malignant neoplasm of breast
+PREVENTS,pentoxifylline,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,pentoxifylline Malignant neoplasm of breast
+PREVENTS,salinomycin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,salinomycin Malignant neoplasm of breast
+PREVENTS,Clinical Breast Examination,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Clinical Breast Examination Malignant neoplasm of breast
+PREVENTS,lithium,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lithium Malignant neoplasm of breast
+PREVENTS,"PIK3CB protein, human|PIK3CB",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"PIK3CB protein, human|PIK3CB Malignant neoplasm of breast"
+PREVENTS,ethanol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ethanol Malignant neoplasm of breast
+PREVENTS,Recombinant Human Chorionic Gonadotropin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Recombinant Human Chorionic Gonadotropin Malignant neoplasm of breast
+PREVENTS,Mepitel Film,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mepitel Film Malignant neoplasm of breast
+PREVENTS,MACC1 gene|MACC1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MACC1 gene|MACC1 Malignant neoplasm of breast
+PREVENTS,carvedilol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,carvedilol Malignant neoplasm of breast
+PREVENTS,SGO1 gene|SGO1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SGO1 gene|SGO1 Malignant neoplasm of breast
+PREVENTS,green tea extract,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,green tea extract Malignant neoplasm of breast
+PREVENTS,secreted frizzled related protein 1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,secreted frizzled related protein 1 Malignant neoplasm of breast
+PREVENTS,MKI67 gene|MKI67,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MKI67 gene|MKI67 Malignant neoplasm of breast
+PREVENTS,mitoxantrone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,mitoxantrone Malignant neoplasm of breast
+PREVENTS,KDM3A gene|KDM3A,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,KDM3A gene|KDM3A Triple Negative Breast Neoplasms
+PREVENTS,beta carotene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,beta carotene Malignant neoplasm of breast
+PREVENTS,Ibuprofen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ibuprofen Malignant neoplasm of breast
+PREVENTS,Limonins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Limonins Malignant neoplasm of breast
+PREVENTS,tibolone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,tibolone Malignant neoplasm of breast
+PREVENTS,MAP2K1 gene|MAP2K1,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,MAP2K1 gene|MAP2K1 Breast cancer recurrent
+PREVENTS,Mimosine,Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Mimosine Sporadic Breast Carcinoma
+PREVENTS,Lactones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Lactones Malignant neoplasm of breast
+PREVENTS,beta-adrenergic receptor,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Hormonal Treatments,beta-adrenergic receptor Breast cancer metastatic
+PREVENTS,Polysaccharides,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Polysaccharides Malignant neoplasm of breast
+PREVENTS,MSC gene|MSC,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MSC gene|MSC Malignant neoplasm of breast
+PREVENTS,cyclin-dependent kinase inhibitor 1B|CDKN1B,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cyclin-dependent kinase inhibitor 1B|CDKN1B Malignant neoplasm of breast
+PREVENTS,Cancer-Predisposing Gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cancer-Predisposing Gene Malignant neoplasm of breast
+PREVENTS,Ovariohysterectomy,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Ovariohysterectomy Breast Carcinoma
+PREVENTS,Polycyclic Hydrocarbons,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Polycyclic Hydrocarbons Malignant neoplasm of breast
+PREVENTS,Oral contraception,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oral contraception Malignant neoplasm of breast
+PREVENTS,Fibronectins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Fibronectins Malignant neoplasm of breast
+PREVENTS,Fertility Agents,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Fertility Agents Breast Carcinoma
+PREVENTS,TNFSF10 gene|TNFSF10,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TNFSF10 gene|TNFSF10 Malignant neoplasm of breast
+PREVENTS,anthracene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,anthracene Malignant neoplasm of breast
+PREVENTS,Evista,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Evista Malignant neoplasm of breast
+PREVENTS,PPAR gamma,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,PPAR gamma Breast Carcinoma
+PREVENTS,Anti-Inflammatory Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Anti-Inflammatory Agents Malignant neoplasm of breast
+PREVENTS,"2,3-bis(3'-hydroxybenzyl)butyrolactone",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"2,3-bis(3'-hydroxybenzyl)butyrolactone Malignant neoplasm of breast"
+PREVENTS,argatroban,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,argatroban Malignant neoplasm of breast
+PREVENTS,bexarotene,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,bexarotene Breast Carcinoma
+PREVENTS,Enzymes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Enzymes Malignant neoplasm of breast
+METHOD_OF,Risk Assessment,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Risk Assessment breast cancer prevention
+PREVENTS,Caffeine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Caffeine Malignant neoplasm of breast
+PREVENTS,SCH 57068,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SCH 57068 Malignant neoplasm of breast
+METHOD_OF,Therapeutic Effect,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Therapeutic Effect breast cancer prevention
+PREVENTS,UGT2B7,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,UGT2B7 Breast Carcinoma
+PREVENTS,Estrone,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Estrone Breast Carcinoma
+PREVENTS,agonists,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,agonists Malignant neoplasm of breast
+PREVENTS,polo-like kinase 1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,polo-like kinase 1 Breast cancer metastatic
+PREVENTS,Proteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Proteins Malignant neoplasm of breast
+PREVENTS,genistin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,genistin Malignant neoplasm of breast
+PREVENTS,CLOCK,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CLOCK Malignant neoplasm of breast
+PREVENTS,MicroRNAs,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,MicroRNAs Breast cancer metastatic
+PREVENTS,fasudil,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,fasudil Breast cancer metastatic
+PREVENTS,LRRC3B gene|LRRC3B,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,LRRC3B gene|LRRC3B Breast cancer recurrent
+PREVENTS,RUNX1 gene|RUNX1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,RUNX1 gene|RUNX1 Breast cancer metastatic
+PREVENTS,Prh protein|HHEX|PRLH,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,Prh protein|HHEX|PRLH Breast cancer invasive NOS
+PREVENTS,Adrenergic Antagonists,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Adrenergic Antagonists Malignant neoplasm of breast
+PREVENTS,TBPL1 gene|TBPL1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TBPL1 gene|TBPL1 Malignant neoplasm of breast
+PREVENTS,Detection,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"Detection Carcinoma, Ductal, Breast"
+PREVENTS,dabigatran etexilate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,dabigatran etexilate Malignant neoplasm of breast
+PREVENTS,RPS27L,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RPS27L Malignant neoplasm of breast
+PREVENTS,breast cancer prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,breast cancer prevention Malignant neoplasm of breast
+COEXISTS_WITH,Group education,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Group education breast cancer prevention
+PREVENTS,anastrozole,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,anastrozole Breast cancer recurrent
+PREVENTS,RU 16117,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RU 16117 Malignant neoplasm of breast
+PREVENTS,FOXM1,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,FOXM1 Breast cancer recurrent
+PREVENTS,Adiponectin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Adiponectin Malignant neoplasm of breast
+PREVENTS,flavone,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,flavone Breast cancer metastatic
+PREVENTS,Plant Preparations,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medications,Plant Preparations Breast cancer invasive NOS
+PREVENTS,Choline,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Choline Malignant neoplasm of breast
+PREVENTS,diallyl disulfide,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,diallyl disulfide Malignant neoplasm of breast
+PREVENTS,IL1RN,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IL1RN Malignant neoplasm of breast
+PREVENTS,exemestane 25 MG,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,exemestane 25 MG Malignant neoplasm of breast
+PREVENTS,Naloxone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Naloxone Malignant neoplasm of breast
+PREVENTS,MIRN181A gene|MIR181A2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIRN181A gene|MIR181A2 Malignant neoplasm of breast
+PREVENTS,cytokine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cytokine Malignant neoplasm of breast
+PREVENTS,Insulin|INS,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Insulin|INS Breast cancer recurrent
+PREVENTS,LG 100268,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,LG 100268 Breast cancer invasive NOS
+PREVENTS,CADM4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CADM4 Malignant neoplasm of breast
+PREVENTS,Methyltransferase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Methyltransferase Malignant neoplasm of breast
+PREVENTS,APC gene|APC,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,APC gene|APC Malignant neoplasm of breast
+PREVENTS,Recombinant Interferon-gamma,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Recombinant Interferon-gamma Carcinoma breast stage IV
+PREVENTS,FSCN1 gene|FSCN1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FSCN1 gene|FSCN1 Malignant neoplasm of breast
+PREVENTS,heparin-binding EGF-like growth factor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,heparin-binding EGF-like growth factor Malignant neoplasm of breast
+PREVENTS,SCAMP1 gene|SCAMP1,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,SCAMP1 gene|SCAMP1 Invasive carcinoma of breast
+PREVENTS,pyridoxine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,pyridoxine Malignant neoplasm of breast
+PREVENTS,lemon extract,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lemon extract Malignant neoplasm of breast
+PREVENTS,MEGF11 gene|MEGF11,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,MEGF11 gene|MEGF11 Triple Negative Breast Neoplasms
+PREVENTS,CD52,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CD52 Malignant neoplasm of breast
+PREVENTS,Glucocorticoids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Glucocorticoids Malignant neoplasm of breast
+PREVENTS,paclitaxel,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,paclitaxel Malignant neoplasm of breast
+PREVENTS,AGR3 gene|AGR3,Basal-Like Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,AGR3 gene|AGR3 Basal-Like Breast Carcinoma
+PREVENTS,interferon type II,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,interferon type II Malignant neoplasm of breast
+PREVENTS,GATA3 gene|GATA3,Basal-Like Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,GATA3 gene|GATA3 Basal-Like Breast Carcinoma
+PREVENTS,MYSM1 gene|MYSM1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MYSM1 gene|MYSM1 Malignant neoplasm of breast
+PREVENTS,LEPR gene|LEPR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LEPR gene|LEPR Malignant neoplasm of breast
+PREVENTS,MIR145 gene|MIR145,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,MIR145 gene|MIR145 Invasive carcinoma of breast
+PREVENTS,RAC2 gene|RAC2,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,RAC2 gene|RAC2 Carcinoma breast stage IV
+PREVENTS,GPR171 gene|GPR171,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,GPR171 gene|GPR171 Carcinoma breast stage IV
+PREVENTS,selenium,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,selenium Malignant neoplasm of breast
+PREVENTS,"KLRB1 protein, human|KLRB1",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"KLRB1 protein, human|KLRB1 Malignant neoplasm of breast"
+PREVENTS,NEK2 gene|NEK2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,NEK2 gene|NEK2 Malignant neoplasm of breast
+PREVENTS,Deep Inspiration Breath Hold,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Deep Inspiration Breath Hold Malignant neoplasm of breast
+PREVENTS,HNRNPC gene|HNRNPC,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HNRNPC gene|HNRNPC Malignant neoplasm of breast
+PREVENTS,GPX4 gene|GPX4,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,GPX4 gene|GPX4 Triple Negative Breast Neoplasms
+PREVENTS,CCND3 gene|CCND3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CCND3 gene|CCND3 Malignant neoplasm of breast
+PREVENTS,NME1 gene|NME1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,NME1 gene|NME1 Breast Carcinoma
+PREVENTS,pigment epithelium-derived factor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,pigment epithelium-derived factor Malignant neoplasm of breast
+PREVENTS,ORALIT,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ORALIT Malignant neoplasm of breast
+PREVENTS,cyclooxygenase 2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cyclooxygenase 2 Malignant neoplasm of breast
+PREVENTS,Secondary prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Secondary prevention Malignant neoplasm of breast
+PREVENTS,TNFSF11 gene|TNFSF11,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TNFSF11 gene|TNFSF11 Malignant neoplasm of breast
+PREVENTS,Interferons,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Interferons Breast Carcinoma
+PREVENTS,Gestodene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Gestodene Malignant neoplasm of breast
+PREVENTS,Selenium,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Selenium Breast Carcinoma
+PREVENTS,Dichlorodiphenyl Dichloroethylene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Dichlorodiphenyl Dichloroethylene Malignant neoplasm of breast
+PREVENTS,Sitosterol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Sitosterol Malignant neoplasm of breast
+PREVENTS,Risedronate,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Risedronate Breast cancer metastatic
+PREVENTS,Oncogene ErbB2|ERBB2|NEU1|NEURL1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oncogene ErbB2|ERBB2|NEU1|NEURL1 Malignant neoplasm of breast
+PREVENTS,delta-tocopherol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,delta-tocopherol Malignant neoplasm of breast
+PREVENTS,phenylbutyrate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,phenylbutyrate Malignant neoplasm of breast
+PREVENTS,Fibroblast Growth Factor Receptor 2|FGFR2,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Hormonal Treatments,Fibroblast Growth Factor Receptor 2|FGFR2 Breast cancer metastatic
+PREVENTS,4-hydroxyestrone,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,4-hydroxyestrone Breast cancer invasive NOS
+PREVENTS,Iodine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Iodine Malignant neoplasm of breast
+PREVENTS,Tubal Excision,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tubal Excision Malignant neoplasm of breast
+PREVENTS,Ospemifene,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Ospemifene Breast Carcinoma
+PREVENTS,NAD(P)H Dehydrogenase (Quinone),Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,NAD(P)H Dehydrogenase (Quinone) Malignant neoplasm of breast
+PREVENTS,Angiogenesis Inhibitors,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Angiogenesis Inhibitors Noninfiltrating Intraductal Carcinoma
+PREVENTS,Massage,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Massage Malignant neoplasm of breast
+PREVENTS,Substance P,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Substance P Breast cancer metastatic
+PREVENTS,GPX1 gene|GPX1,Sporadic Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,GPX1 gene|GPX1 Sporadic Breast Carcinoma
+PREVENTS,gamma-Tocopherol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,gamma-Tocopherol Malignant neoplasm of breast
+PREVENTS,Growth Factor Gene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Growth Factor Gene Malignant neoplasm of breast
+PREVENTS,Aromatase Inhibitors,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Aromatase Inhibitors Breast cancer invasive NOS
+PREVENTS,Carotenoids,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Carotenoids Breast cancer recurrent
+PREVENTS,EIF3S6 gene|EIF3E,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,EIF3S6 gene|EIF3E Malignant neoplasm of breast
+PREVENTS,fucoidan,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,fucoidan Malignant neoplasm of breast
+PREVENTS,Serotonin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Serotonin Breast cancer metastatic
+PREVENTS,GSTT1 gene|GSTT1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,GSTT1 gene|GSTT1 Breast Carcinoma
+PREVENTS,secretory carrier membrane protein 1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,secretory carrier membrane protein 1 Malignant neoplasm of breast
+PREVENTS,Cisplatin,Familial cancer of breast,0.0,Female Breast Cancer,Medical Procedures,Cisplatin Familial cancer of breast
+PREVENTS,4-(1-(4-hydroxyphenyl)-2-phenylbuten-1-yl)phenoxy-n-butyric acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,4-(1-(4-hydroxyphenyl)-2-phenylbuten-1-yl)phenoxy-n-butyric acid Malignant neoplasm of breast
+PREVENTS,PPP2R2A,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,PPP2R2A Breast cancer metastatic
+PREVENTS,UGT2B7,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UGT2B7 Malignant neoplasm of breast
+PREVENTS,"Receptors, Interleukin-1",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,"Receptors, Interleukin-1 Malignant neoplasm of breast"
+PREVENTS,SUN2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SUN2 Malignant neoplasm of breast
+PREVENTS,TSC1 gene|TSC1|CCL26,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,TSC1 gene|TSC1|CCL26 Breast cancer invasive NOS
+PREVENTS,Ovariectomy,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Ovariectomy Contralateral breast cancer
+PREVENTS,Amphiregulin|GPR182,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Amphiregulin|GPR182 Malignant neoplasm of breast
+PREVENTS,Cleaning Device,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cleaning Device Malignant neoplasm of breast
+PREVENTS,Booster,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Booster Breast cancer recurrent
+PREVENTS,Autoantibodies,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Autoantibodies Malignant neoplasm of breast
+COEXISTS_WITH,Health education,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Health education breast cancer prevention
+PREVENTS,Flavones,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Flavones Malignant neoplasm of breast
+PREVENTS,Plates,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Plates Malignant neoplasm of breast
+PREVENTS,HRNR gene|HRNR,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"HRNR gene|HRNR Carcinoma, Ductal, Breast"
+PREVENTS,Interleukin-17,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interleukin-17 Malignant neoplasm of breast
+PREVENTS,Cannabidiol,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Cannabidiol Breast cancer metastatic
+PREVENTS,Oxygen,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oxygen Malignant neoplasm of breast
+PREVENTS,Ascorbic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ascorbic Acid Malignant neoplasm of breast
+PREVENTS,PGRMC1 gene|PGRMC1,Breast cancer stage II,0.0,Female Breast Cancer,Medical Procedures,PGRMC1 gene|PGRMC1 Breast cancer stage II
+PREVENTS,CATALASE,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,CATALASE Breast Carcinoma
+PREVENTS,fucoxanthin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,fucoxanthin Malignant neoplasm of breast
+PREVENTS,Methionine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Methionine Malignant neoplasm of breast
+PREVENTS,Isothiocyanate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Isothiocyanate Malignant neoplasm of breast
+COEXISTS_WITH,Evaluating interventions,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Evaluating interventions breast cancer prevention
+PREVENTS,Glucose Control,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Glucose Control Malignant neoplasm of breast
+PREVENTS,TG,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TG Malignant neoplasm of breast
+PREVENTS,Immunologic Adjuvants,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Immunologic Adjuvants Breast cancer metastatic
+PREVENTS,Doxorubicin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Doxorubicin Malignant neoplasm of breast
+PREVENTS,Annexin A1|ANXA1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Annexin A1|ANXA1 Malignant neoplasm of breast
+PREVENTS,Hypoxanthine Phosphoribosyltransferase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Hypoxanthine Phosphoribosyltransferase Malignant neoplasm of breast
+PREVENTS,Local excision,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Local excision Noninfiltrating Intraductal Carcinoma
+PREVENTS,ID2 gene|ID2,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,ID2 gene|ID2 Noninfiltrating Intraductal Carcinoma
+PREVENTS,Therapeutic agent (substance),Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Therapeutic agent (substance) Malignant neoplasm of breast
+PREVENTS,Immunologic Adjuvants,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Immunologic Adjuvants Malignant neoplasm of breast
+PREVENTS,ADAMTS1 gene|ADAMTS1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ADAMTS1 gene|ADAMTS1 Malignant neoplasm of breast
+PREVENTS,Insulin-Like-Growth Factor I Receptor|IGF1R,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Insulin-Like-Growth Factor I Receptor|IGF1R Malignant neoplasm of breast
+PREVENTS,Detection,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,Detection Breast cancer invasive NOS
+PREVENTS,"HGS protein, human|HGS",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"HGS protein, human|HGS Malignant neoplasm of breast"
+PREVENTS,PIN1 gene|PIN1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PIN1 gene|PIN1 Malignant neoplasm of breast
+PREVENTS,adrenomedullin,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,adrenomedullin Triple Negative Breast Neoplasms
+PREVENTS,FOSB,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,FOSB Triple Negative Breast Neoplasms
+PREVENTS,Monoclonal Antibodies,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Monoclonal Antibodies Malignant neoplasm of breast
+PREVENTS,doxorubicin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,doxorubicin Malignant neoplasm of breast
+PREVENTS,denosumab,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,denosumab Malignant neoplasm of breast
+PREVENTS,activin A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,activin A Malignant neoplasm of breast
+PREVENTS,cinnamic aldehyde,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cinnamic aldehyde Malignant neoplasm of breast
+PREVENTS,FOXQ1 gene|FOXQ1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FOXQ1 gene|FOXQ1 Malignant neoplasm of breast
+PREVENTS,ST7-AS1 gene|ST7-AS1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ST7-AS1 gene|ST7-AS1 Malignant neoplasm of breast
+PREVENTS,Intercellular adhesion molecule 1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Intercellular adhesion molecule 1 Malignant neoplasm of breast
+PREVENTS,vincristine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,vincristine Breast Carcinoma
+PREVENTS,denosumab,Malignant neoplasm of female breast,0.0,Female Breast Cancer,Medical Procedures,denosumab Malignant neoplasm of female breast
+PREVENTS,doxorubicin,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,doxorubicin Triple Negative Breast Neoplasms
+PREVENTS,Excision of axillary lymph nodes group,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Excision of axillary lymph nodes group Malignant neoplasm of breast
+PREVENTS,AFAP1-AS1 gene|AFAP1-AS1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,AFAP1-AS1 gene|AFAP1-AS1 Malignant neoplasm of breast
+PREVENTS,SIN3A gene|SIN3A,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,SIN3A gene|SIN3A Carcinoma breast stage IV
+PREVENTS,DDX5 gene|DDX5,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,DDX5 gene|DDX5 Triple Negative Breast Neoplasms
+PREVENTS,NR2F1 gene|NR2F1,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,NR2F1 gene|NR2F1 Noninfiltrating Intraductal Carcinoma
+PREVENTS,RBMS1 gene|RBMS1,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,RBMS1 gene|RBMS1 Triple Negative Breast Neoplasms
+PREVENTS,SNS-032,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,SNS-032 Triple Negative Breast Neoplasms
+PREVENTS,LOXL2 gene|LOXL2,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,LOXL2 gene|LOXL2 Secondary malignant neoplasm of breast
+PREVENTS,everolimus,estrogen receptor-negative breast cancer,0.0,Female Breast Cancer,Hormonal Treatments,everolimus estrogen receptor-negative breast cancer
+PREVENTS,timolol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,timolol Malignant neoplasm of breast
+PREVENTS,Scalp cooling system,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Scalp cooling system Malignant neoplasm of breast
+PREVENTS,RNA-Binding Proteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RNA-Binding Proteins Malignant neoplasm of breast
+PREVENTS,UBE2L6 gene|UBE2L6,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UBE2L6 gene|UBE2L6 Malignant neoplasm of breast
+PREVENTS,GJA1 gene|GJA1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,GJA1 gene|GJA1 Malignant neoplasm of breast
+PREVENTS,diabetes mellitus management,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,diabetes mellitus management Malignant neoplasm of breast
+PREVENTS,"Genes, Mitochondrial",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Genes, Mitochondrial Malignant neoplasm of breast"
+PREVENTS,Aryl Hydrocarbon Receptor,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,Aryl Hydrocarbon Receptor Triple Negative Breast Neoplasms
+PREVENTS,"PTGS2 protein, human|PTGS2",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"PTGS2 protein, human|PTGS2 Malignant neoplasm of breast"
+PREVENTS,RAP1GAP gene|RAP1GAP,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RAP1GAP gene|RAP1GAP Malignant neoplasm of breast
+PREVENTS,ubidecarenone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ubidecarenone Malignant neoplasm of breast
+PREVENTS,estriol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,estriol Malignant neoplasm of breast
+PREVENTS,lutein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,lutein Malignant neoplasm of breast
+PREVENTS,Utrophin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Utrophin Malignant neoplasm of breast
+PREVENTS,Triglycerides,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Triglycerides Malignant neoplasm of breast
+PREVENTS,Estriol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Estriol Malignant neoplasm of breast
+PREVENTS,STAT5A gene|STAT5A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,STAT5A gene|STAT5A Malignant neoplasm of breast
+PREVENTS,R-38486,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,R-38486 Malignant neoplasm of breast
+PREVENTS,trastuzumab,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,trastuzumab Breast cancer recurrent
+PREVENTS,Interferons,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Interferons Breast cancer metastatic
+USES,Surveys,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Surveys breast cancer prevention
+PREVENTS,Difluoromethylornithine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Difluoromethylornithine Malignant neoplasm of breast
+USES,Biological Assay,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Biological Assay breast cancer prevention
+PREVENTS,Biological Products,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Biological Products Malignant neoplasm of breast
+PREVENTS,AFP gene|AFP,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,AFP gene|AFP Malignant neoplasm of breast
+PREVENTS,Insulin|INS,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Insulin|INS Malignant neoplasm of breast
+PREVENTS,Ablation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Ablation Malignant neoplasm of breast
+PREVENTS,Oxytocin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Oxytocin Malignant neoplasm of breast
+PREVENTS,CDKN1B gene|CDKN1B,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CDKN1B gene|CDKN1B Malignant neoplasm of breast
+PREVENTS,UTS2R|SLC14A2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UTS2R|SLC14A2 Malignant neoplasm of breast
+PREVENTS,AR gene|AR,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,AR gene|AR Contralateral breast cancer
+PREVENTS,PTPN11 gene|PTPN11,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PTPN11 gene|PTPN11 Malignant neoplasm of breast
+PREVENTS,SIRT3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SIRT3 Malignant neoplasm of breast
+PREVENTS,Genes,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Genes Malignant neoplasm of breast
+PREVENTS,CXCL12 gene|CXCL12,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CXCL12 gene|CXCL12 Malignant neoplasm of breast
+PREVENTS,Placebos,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Placebos Breast cancer metastatic
+METHOD_OF,Ovariectomy,breast cancer prevention,0.0269730269730269,Other,Medical Procedures,Ovariectomy breast cancer prevention
+PREVENTS,RNA Recognition Motif,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RNA Recognition Motif Malignant neoplasm of breast
+PREVENTS,Rho-associated kinase,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Rho-associated kinase Breast cancer metastatic
+PREVENTS,Tretinoin,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Tretinoin Breast Carcinoma
+PREVENTS,erlotinib,Inflammatory Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,erlotinib Inflammatory Breast Carcinoma
+PREVENTS,Ovariectomy,Familial cancer of breast,0.0,Female Breast Cancer,Medical Procedures,Ovariectomy Familial cancer of breast
+PREVENTS,Tumor Suppressor Genes,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Tumor Suppressor Genes Breast Carcinoma
+PREVENTS,receptor,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Hormonal Treatments,receptor Breast cancer metastatic
+PREVENTS,PLAU gene|PLAU,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PLAU gene|PLAU Malignant neoplasm of breast
+PREVENTS,Cholecalciferol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cholecalciferol Malignant neoplasm of breast
+PREVENTS,Prh protein|HHEX|PRLH,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Prh protein|HHEX|PRLH Noninfiltrating Intraductal Carcinoma
+PREVENTS,FAT1,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"FAT1 Carcinoma, Ductal, Breast"
+PREVENTS,trastuzumab,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,trastuzumab Malignant neoplasm of breast
+PREVENTS,telocinobufagin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,telocinobufagin Breast cancer metastatic
+PREVENTS,Excision,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Excision Breast Carcinoma
+PREVENTS,UGT1A1 gene|UGT1A1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UGT1A1 gene|UGT1A1 Malignant neoplasm of breast
+PREVENTS,Tube feeding of patient,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tube feeding of patient Malignant neoplasm of breast
+PREVENTS,receptor,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,receptor Breast cancer recurrent
+PREVENTS,RUNX3 gene|RUNX3,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RUNX3 gene|RUNX3 Malignant neoplasm of breast
+PREVENTS,Alternative Therapies,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Alternative Therapies Malignant neoplasm of breast
+PREVENTS,Reexcision,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Reexcision Noninfiltrating Intraductal Carcinoma
+PREVENTS,Therapeutic Intervention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Therapeutic Intervention Malignant neoplasm of breast
+PREVENTS,Antilipemic Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Antilipemic Agents Malignant neoplasm of breast
+PREVENTS,Detection,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Detection Breast Carcinoma
+PREVENTS,Insulin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Insulin Malignant neoplasm of breast
+PREVENTS,canola oil,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,canola oil Malignant neoplasm of breast
+PREVENTS,MXD1|MAD1L1,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,MXD1|MAD1L1 Noninfiltrating Intraductal Carcinoma
+PREVENTS,Focal Adhesion Protein-Tyrosine Kinases,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Focal Adhesion Protein-Tyrosine Kinases Malignant neoplasm of breast
+PREVENTS,IGF1 gene|IGF1,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,IGF1 gene|IGF1 Breast cancer recurrent
+PREVENTS,LINC00628,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LINC00628 Malignant neoplasm of breast
+PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,"Anti-Inflammatory Agents, Non-Steroidal Breast cancer recurrent"
+PREVENTS,"EPIDERMAL GROWTH FACTOR, HUMAN|EREG|ESR1",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"EPIDERMAL GROWTH FACTOR, HUMAN|EREG|ESR1 Malignant neoplasm of breast"
+PREVENTS,exemestane,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Hormonal Treatments,exemestane Breast cancer invasive NOS
+PREVENTS,Fatty-acid synthase|FASN,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Fatty-acid synthase|FASN Breast Carcinoma
+PREVENTS,oleocanthal,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,oleocanthal Breast cancer recurrent
+PREVENTS,Formates,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Formates Malignant neoplasm of breast
+PREVENTS,riboflavin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,riboflavin Malignant neoplasm of breast
+PREVENTS,HIF1A gene|HIF1A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HIF1A gene|HIF1A Malignant neoplasm of breast
+PREVENTS,LYVE1 gene|LYVE1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,LYVE1 gene|LYVE1 Breast Carcinoma
+PREVENTS,Product base,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Product base Malignant neoplasm of breast
+PREVENTS,MYC,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,MYC Breast Carcinoma
+PREVENTS,PRS gene|PRS,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PRS gene|PRS Malignant neoplasm of breast
+PREVENTS,HOXA9 gene|HOXA9,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,HOXA9 gene|HOXA9 Triple Negative Breast Neoplasms
+PREVENTS,Mitogen-Activated Protein Kinases,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Mitogen-Activated Protein Kinases Carcinoma breast stage IV
+PREVENTS,EIF3E,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,EIF3E Malignant neoplasm of breast
+PREVENTS,MIR503HG gene|MIR503HG,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,MIR503HG gene|MIR503HG Triple Negative Breast Neoplasms
+PREVENTS,ELF5 gene|ELF5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ELF5 gene|ELF5 Malignant neoplasm of breast
+PREVENTS,AGR2,Basal-Like Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,AGR2 Basal-Like Breast Carcinoma
+PREVENTS,melatonin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,melatonin Malignant neoplasm of breast
+PREVENTS,voacamine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,voacamine Breast Carcinoma
+PREVENTS,BCL2 gene|BCL2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,BCL2 gene|BCL2 Malignant neoplasm of breast
+PREVENTS,genistein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,genistein Malignant neoplasm of breast
+PREVENTS,ANKDD1A gene|ANKDD1A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ANKDD1A gene|ANKDD1A Malignant neoplasm of breast
+PREVENTS,nimbolide,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,nimbolide Malignant neoplasm of breast
+PREVENTS,raloxifene,Invasive carcinoma of breast,0.0,Female Breast Cancer,Hormonal Treatments,raloxifene Invasive carcinoma of breast
+PREVENTS,SOY ISOFLAVONES,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SOY ISOFLAVONES Malignant neoplasm of breast
+PREVENTS,dehydrodolichyl diphosphate synthase,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,dehydrodolichyl diphosphate synthase Triple Negative Breast Neoplasms
+PREVENTS,Molecular Target,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Molecular Target Carcinoma breast stage IV
+PREVENTS,CDK1 gene|CDK1,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,CDK1 gene|CDK1 Triple Negative Breast Neoplasms
+PREVENTS,TFEB gene|TFEB,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,TFEB gene|TFEB Triple Negative Breast Neoplasms
+PREVENTS,obtusifolin,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,obtusifolin Secondary malignant neoplasm of breast
+PREVENTS,garlic preparation,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,garlic preparation Malignant neoplasm of breast
+PREVENTS,Docosahexaenoic Acids,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,Docosahexaenoic Acids Secondary malignant neoplasm of breast
+PREVENTS,Extraction,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Extraction Malignant neoplasm of breast
+PREVENTS,ubidecarenone,Malignant neoplasm of female breast,0.0,Female Breast Cancer,Medical Procedures,ubidecarenone Malignant neoplasm of female breast
+PREVENTS,indacaterol,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,indacaterol Carcinoma breast stage IV
+PREVENTS,buyang huanwu,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,buyang huanwu Malignant neoplasm of breast
+PREVENTS,Phosphotransferases,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Phosphotransferases Breast cancer metastatic
+PREVENTS,obacunone,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,obacunone Malignant neoplasm of breast
+PREVENTS,"Injections, Intraperitoneal",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Injections, Intraperitoneal Malignant neoplasm of breast"
+PREVENTS,Pollutant,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Pollutant Malignant neoplasm of breast
+PREVENTS,SST gene|SST,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SST gene|SST Malignant neoplasm of breast
+PREVENTS,Chromatin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Chromatin Malignant neoplasm of breast
+PREVENTS,isoliquiritigenin,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,isoliquiritigenin Breast cancer metastatic
+PREVENTS,Manganese Superoxide Dismutase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Manganese Superoxide Dismutase Malignant neoplasm of breast
+PREVENTS,C10orf10,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,C10orf10 Malignant neoplasm of breast
+PREVENTS,SMAD4 gene|SMAD4,Ductal Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,SMAD4 gene|SMAD4 Ductal Breast Carcinoma
+PREVENTS,Linoleic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Linoleic Acid Malignant neoplasm of breast
+PREVENTS,Castration,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Castration Malignant neoplasm of breast
+PREVENTS,cancer care,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,cancer care Breast cancer recurrent
+PREVENTS,EM 800,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,EM 800 Malignant neoplasm of breast
+PREVENTS,alanosine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,alanosine Malignant neoplasm of breast
+PREVENTS,Excision of neoplasm,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Excision of neoplasm Malignant neoplasm of breast
+PREVENTS,"Contraceptives, Oral",Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,"Contraceptives, Oral Breast Carcinoma"
+PREVENTS,Placebos,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Placebos Breast cancer recurrent
+PREVENTS,Colectomy,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Colectomy Malignant neoplasm of breast
+PREVENTS,Estriol,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Estriol Breast Carcinoma
+PREVENTS,axerophthene,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,axerophthene Malignant neoplasm of breast
+PREVENTS,retinamide,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,retinamide Breast Carcinoma
+PREVENTS,Interleukin-12,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Interleukin-12 Breast Carcinoma
+PREVENTS,IL32,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IL32 Malignant neoplasm of breast
+PREVENTS,LG 100268,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,LG 100268 Breast Carcinoma
+PREVENTS,Cholesterol,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Cholesterol Contralateral breast cancer
+PREVENTS,PTPRJ gene|PTPRJ,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PTPRJ gene|PTPRJ Malignant neoplasm of breast
+PREVENTS,SULT1A1|SULT1A1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SULT1A1|SULT1A1 Malignant neoplasm of breast
+PREVENTS,dendrophenol,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,dendrophenol Breast cancer metastatic
+PREVENTS,Dipyridamole,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Dipyridamole Malignant neoplasm of breast
+PREVENTS,IFI16,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,IFI16 Malignant neoplasm of breast
+PREVENTS,ERBB2|NEU1|NEURL1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,ERBB2|NEU1|NEURL1 Breast Carcinoma
+PREVENTS,cyclooxygenase 2,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,cyclooxygenase 2 Breast cancer recurrent
+PREVENTS,TIAM1 gene|TIAM1,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,TIAM1 gene|TIAM1 Breast Carcinoma
+PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Hydroxymethylglutaryl-CoA Reductase Inhibitors Breast cancer metastatic
+PREVENTS,LRIG1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,LRIG1 Malignant neoplasm of breast
+PREVENTS,PRKAA1|PRKAA2|PRKAB1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PRKAA1|PRKAA2|PRKAB1 Malignant neoplasm of breast
+PREVENTS,peoniflorin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,peoniflorin Malignant neoplasm of breast
+PREVENTS,sesamin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,sesamin Malignant neoplasm of breast
+PREVENTS,EHMT2,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,EHMT2 Breast cancer metastatic
+PREVENTS,systemic administration,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,systemic administration Malignant neoplasm of breast
+PREVENTS,YBX1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,YBX1 Malignant neoplasm of breast
+PREVENTS,diallyl trisulfide,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,diallyl trisulfide Breast cancer metastatic
+PREVENTS,Membrane Transport Proteins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Membrane Transport Proteins Malignant neoplasm of breast
+PREVENTS,MIRN17 gene|MIR17,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIRN17 gene|MIR17 Malignant neoplasm of breast
+PREVENTS,beta catenin,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"beta catenin Carcinoma, Ductal, Breast"
+PREVENTS,SFRP1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,SFRP1 Malignant neoplasm of breast
+PREVENTS,EPHA4 gene|EPHA4,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,EPHA4 gene|EPHA4 Breast Carcinoma
+PREVENTS,Adriamycin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Adriamycin Malignant neoplasm of breast
+PREVENTS,USP43,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,USP43 Breast Carcinoma
+PREVENTS,UGT1A4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,UGT1A4 Malignant neoplasm of breast
+PREVENTS,EEF1A1 gene|EEF1A1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,EEF1A1 gene|EEF1A1 Malignant neoplasm of breast
+PREVENTS,Mandibular right first molar abutment,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mandibular right first molar abutment Malignant neoplasm of breast
+PREVENTS,TERT gene|TERT,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,TERT gene|TERT Malignant neoplasm of breast
+PREVENTS,"Breast Prosthesis, Internal",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Breast Prosthesis, Internal Malignant neoplasm of breast"
+PREVENTS,receptor,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,receptor Malignant neoplasm of breast
+PREVENTS,"Abortion, Induced",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Abortion, Induced Malignant neoplasm of breast"
+PREVENTS,Steroidal Aromatase Inhibitor,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Steroidal Aromatase Inhibitor Contralateral breast cancer
+PREVENTS,Raloxifene,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Raloxifene Noninfiltrating Intraductal Carcinoma
+PREVENTS,Glutamate Carboxypeptidase II,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Glutamate Carboxypeptidase II Malignant neoplasm of breast
+PREVENTS,ERBB2 gene|ERBB2,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,ERBB2 gene|ERBB2 Breast Carcinoma
+PREVENTS,DIP2C,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,DIP2C Malignant neoplasm of breast
+PREVENTS,"Administration, Oral",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Administration, Oral Malignant neoplasm of breast"
+PREVENTS,Folic Acid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Folic Acid Malignant neoplasm of breast
+PREVENTS,Hepatocyte Growth Factor|HGF,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Hepatocyte Growth Factor|HGF Breast cancer metastatic
+PREVENTS,STN gene|EEF1A2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,STN gene|EEF1A2 Malignant neoplasm of breast
+PREVENTS,Insulin-Like Growth Factor I,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Insulin-Like Growth Factor I Breast cancer recurrent
+PREVENTS,ferric oxide,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,ferric oxide Breast cancer recurrent
+PREVENTS,Salts,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Salts Malignant neoplasm of breast
+PREVENTS,Docosahexaenoic Acids,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Docosahexaenoic Acids Malignant neoplasm of breast
+PREVENTS,Toll-Like Receptor 5|TLR5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,Toll-Like Receptor 5|TLR5 Malignant neoplasm of breast
+PREVENTS,citronellol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,citronellol Malignant neoplasm of breast
+PREVENTS,MIR130A gene|MIR130A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIR130A gene|MIR130A Malignant neoplasm of breast
+PREVENTS,CD274 gene|CD274,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,CD274 gene|CD274 Triple Negative Breast Neoplasms
+PREVENTS,sulforafan,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,sulforafan Carcinoma breast stage IV
+PREVENTS,folate,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,folate Malignant neoplasm of breast
+PREVENTS,curcumin,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,curcumin Triple Negative Breast Neoplasms
+PREVENTS,Phosphotransferases,Recurrent Breast Carcinoma,0.0019980019980019,Recurrent Breast Cancer,Medical Procedures,Phosphotransferases Recurrent Breast Carcinoma
+PREVENTS,levothyroxine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,levothyroxine Malignant neoplasm of breast
+PREVENTS,PIK3R1 gene|PIK3R1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PIK3R1 gene|PIK3R1 Malignant neoplasm of breast
+PREVENTS,honokiol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,honokiol Malignant neoplasm of breast
+PREVENTS,"Fatty Acids, Unsaturated",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Fatty Acids, Unsaturated Malignant neoplasm of breast"
+PREVENTS,cordycepin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cordycepin Malignant neoplasm of breast
+PREVENTS,si-wu-tang,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,si-wu-tang Malignant neoplasm of breast
+PREVENTS,Anti-Antibodies,Noninfiltrating Intraductal Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,Anti-Antibodies Noninfiltrating Intraductal Carcinoma
+PREVENTS,Osteocalcin,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Osteocalcin Carcinoma breast stage IV
+PREVENTS,"Receptors, Interleukin-1",Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,"Receptors, Interleukin-1 Triple Negative Breast Neoplasms"
+PREVENTS,"Zinc Finger and BTB Domain-Containing Protein 20, Human|ZBTB20",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Zinc Finger and BTB Domain-Containing Protein 20, Human|ZBTB20 Malignant neoplasm of breast"
+PREVENTS,ETV7 gene|ETV7,Inflammatory Breast Carcinoma,0.0019980019980019,Female Breast Cancer,Medical Procedures,ETV7 gene|ETV7 Inflammatory Breast Carcinoma
+PREVENTS,inulin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,inulin Malignant neoplasm of breast
+PREVENTS,BARRIER,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,BARRIER Malignant neoplasm of breast
+PREVENTS,Acetyl-CoA Carboxylase,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Acetyl-CoA Carboxylase Malignant neoplasm of breast
+PREVENTS,Neprilysin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Neprilysin Malignant neoplasm of breast
+PREVENTS,STING1 gene,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,STING1 gene Secondary malignant neoplasm of breast
+PREVENTS,DUSP10 gene|DUSP10,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,DUSP10 gene|DUSP10 Malignant neoplasm of breast
+PREVENTS,donepezil,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,donepezil Malignant neoplasm of breast
+PREVENTS,RBM10 gene|RBM10,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RBM10 gene|RBM10 Malignant neoplasm of breast
+PREVENTS,HER-2 protein|ERBB2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,HER-2 protein|ERBB2 Malignant neoplasm of breast
+PREVENTS,Protein-Lysine 6-Oxidase,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,Protein-Lysine 6-Oxidase Secondary malignant neoplasm of breast
+PREVENTS,toxicant,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,toxicant Malignant neoplasm of breast
+PREVENTS,SRC gene|SRC,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,SRC gene|SRC Breast cancer metastatic
+PREVENTS,Adrenergic beta-Antagonists,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Hormonal Treatments,Adrenergic beta-Antagonists Breast cancer recurrent
+PREVENTS,PAWR gene|PAWR,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,PAWR gene|PAWR Breast cancer recurrent
+PREVENTS,FBXW7 gene|FBXW7,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,FBXW7 gene|FBXW7 Malignant neoplasm of breast
+PREVENTS,Nolvadex,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Nolvadex Malignant neoplasm of breast
+PREVENTS,biochanin A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,biochanin A Malignant neoplasm of breast
+PREVENTS,retinyl methyl ether,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,retinyl methyl ether Malignant neoplasm of breast
+PREVENTS,Tumor proteins,"Carcinoma, Ductal, Breast",0.0,Female Breast Cancer,Medical Procedures,"Tumor proteins Carcinoma, Ductal, Breast"
+PREVENTS,orange oil,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,orange oil Breast Carcinoma
+PREVENTS,Bromocriptine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Bromocriptine Breast Carcinoma
+PREVENTS,Fish Oils,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Fish Oils Breast Carcinoma
+PREVENTS,Fetal Proteins,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Fetal Proteins Breast Carcinoma
+PREVENTS,Freund's Adjuvant,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Freund's Adjuvant Breast Carcinoma
+PREVENTS,"Reduction mammoplasty, bilateral",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,"Reduction mammoplasty, bilateral Malignant neoplasm of breast"
+PREVENTS,Livial,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Livial Malignant neoplasm of breast
+PREVENTS,ID-1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,ID-1 Breast cancer metastatic
+PREVENTS,Interleukin-2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Interleukin-2 Malignant neoplasm of breast
+PREVENTS,Arimidex,Contralateral breast cancer,0.0119880119880119,Female Breast Cancer,Medical Procedures,Arimidex Contralateral breast cancer
+PREVENTS,cysteine rich protein,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,cysteine rich protein Malignant neoplasm of breast
+PREVENTS,enterodiol,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,enterodiol Malignant neoplasm of breast
+PREVENTS,Angiogenesis Inhibitors,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Angiogenesis Inhibitors Malignant neoplasm of breast
+PREVENTS,Genistein,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Genistein Breast cancer metastatic
+PREVENTS,Contraceptive Agents,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,Contraceptive Agents Breast cancer metastatic
+PREVENTS,bilirubin uridine-diphosphoglucuronosyl transferase 1A10|UGT1A10,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,bilirubin uridine-diphosphoglucuronosyl transferase 1A10|UGT1A10 Breast Carcinoma
+PREVENTS,alpha-Fetoproteins,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Hormonal Treatments,alpha-Fetoproteins Breast Carcinoma
+PREVENTS,receptor for advanced glycation endproducts,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,receptor for advanced glycation endproducts Malignant neoplasm of breast
+PREVENTS,ESR1 gene|ESR1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ESR1 gene|ESR1 Malignant neoplasm of breast
+PREVENTS,Antidepressive Agents,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Antidepressive Agents Breast cancer recurrent
+PREVENTS,EGFR gene|EGFR,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,EGFR gene|EGFR Malignant neoplasm of breast
+PREVENTS,selenomethylselenocysteine,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,selenomethylselenocysteine Breast Carcinoma
+PREVENTS,"Heparin, Low-Molecular-Weight",Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,"Heparin, Low-Molecular-Weight Breast cancer metastatic"
+PREVENTS,PIK3R2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PIK3R2 Malignant neoplasm of breast
+PREVENTS,HEXIM1,Breast cancer metastatic,0.0369630369630369,Female Breast Cancer,Medical Procedures,HEXIM1 Breast cancer metastatic
+PREVENTS,Raloxifene Hydrochloride,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Raloxifene Hydrochloride Malignant neoplasm of breast
+PREVENTS,Sugars,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Sugars Malignant neoplasm of breast
+PREVENTS,clopidogrel,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,clopidogrel Malignant neoplasm of breast
+PREVENTS,Fluorouracil,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Fluorouracil Breast cancer recurrent
+PREVENTS,KCNA5,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,KCNA5 Malignant neoplasm of breast
+PREVENTS,"Receptors, Nuclear",Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Hormonal Treatments,"Receptors, Nuclear Malignant neoplasm of breast"
+PREVENTS,PTPN13,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,PTPN13 Malignant neoplasm of breast
+PREVENTS,Integrins,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Integrins Malignant neoplasm of breast
+PREVENTS,Cobra Venoms,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cobra Venoms Malignant neoplasm of breast
+PREVENTS,CXCR4 gene|CXCR4,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CXCR4 gene|CXCR4 Malignant neoplasm of breast
+PREVENTS,MIRN10A gene|MIR10A,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIRN10A gene|MIR10A Malignant neoplasm of breast
+PREVENTS,CYP19A1 gene|CYP19A1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,CYP19A1 gene|CYP19A1 Malignant neoplasm of breast
+PREVENTS,targeted prevention,Breast cancer invasive NOS,0.0129870129870129,Female Breast Cancer,Medical Procedures,targeted prevention Breast cancer invasive NOS
+PREVENTS,Cysteine,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Cysteine Malignant neoplasm of breast
+PREVENTS,WT1 gene|WT1,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,WT1 gene|WT1 Malignant neoplasm of breast
+PREVENTS,Basin,Breast cancer recurrent,0.0429570429570429,Recurrent Breast Cancer,Medical Procedures,Basin Breast cancer recurrent
+PREVENTS,Antineoplastic Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Antineoplastic Agents Malignant neoplasm of breast
+PREVENTS,Linseed Oil,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Linseed Oil Malignant neoplasm of breast
+PREVENTS,Tryptophan,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Tryptophan Malignant neoplasm of breast
+PREVENTS,Lymphocyte antigen CD82|CD82,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Lymphocyte antigen CD82|CD82 Malignant neoplasm of breast
+PREVENTS,Matrix Metalloproteinase 2,Carcinoma breast stage IV,0.0,Female Breast Cancer,Medical Procedures,Matrix Metalloproteinase 2 Carcinoma breast stage IV
+PREVENTS,MIR155 gene|MIR155,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,MIR155 gene|MIR155 Malignant neoplasm of breast
+PREVENTS,RYR2 gene|RYR2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,RYR2 gene|RYR2 Malignant neoplasm of breast
+PREVENTS,Cyclins,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,Cyclins Breast Carcinoma
+PREVENTS,ADH1B gene|ADH1B,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,ADH1B gene|ADH1B Breast Carcinoma
+PREVENTS,chrysoeriol,estrogen receptor-positive breast cancer,0.0,Female Breast Cancer,Hormonal Treatments,chrysoeriol estrogen receptor-positive breast cancer
+PREVENTS,propranolol,Breast Carcinoma,0.0289710289710289,Female Breast Cancer,Medical Procedures,propranolol Breast Carcinoma
+PREVENTS,ACE2 gene|ACE2,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,ACE2 gene|ACE2 Malignant neoplasm of breast
+PREVENTS,dexrazoxane,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,dexrazoxane Malignant neoplasm of breast
+PREVENTS,Breast Cancer Prevention,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Breast Cancer Prevention Malignant neoplasm of breast
+PREVENTS,Protective Agents,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Protective Agents Malignant neoplasm of breast
+PREVENTS,N-acetyltransferase 1,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,N-acetyltransferase 1 Secondary malignant neoplasm of breast
+PREVENTS,MCAM gene|MCAM,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,MCAM gene|MCAM Triple Negative Breast Neoplasms
+PREVENTS,thymoquinone,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,thymoquinone Triple Negative Breast Neoplasms
+PREVENTS,Mobility aid,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Mobility aid Malignant neoplasm of breast
+PREVENTS,Peptides,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Peptides Malignant neoplasm of breast
+PREVENTS,Alarm device,Early-Stage Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,Alarm device Early-Stage Breast Carcinoma
+PREVENTS,interleukin-21,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,interleukin-21 Malignant neoplasm of breast
+PREVENTS,MYO10 gene|MYO10,Early-Stage Breast Carcinoma,0.0,Female Breast Cancer,Medical Procedures,MYO10 gene|MYO10 Early-Stage Breast Carcinoma
+PREVENTS,TMEM25 gene|TMEM25,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,TMEM25 gene|TMEM25 Triple Negative Breast Neoplasms
+PREVENTS,MYBL2 gene|MYBL2,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,MYBL2 gene|MYBL2 Triple Negative Breast Neoplasms
+PREVENTS,FAM3B gene|FAM3B,Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,FAM3B gene|FAM3B Triple Negative Breast Neoplasms
+PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Triple Negative Breast Neoplasms,0.0339660339660339,Female Breast Cancer,Medical Procedures,"SUPPLY, NOT OTHERWISE SPECIFIED Triple Negative Breast Neoplasms"
+PREVENTS,Beta-Cryptoxanthin,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,Beta-Cryptoxanthin Malignant neoplasm of breast
+PREVENTS,cyclophosphamide,Secondary malignant neoplasm of breast,0.0,Female Breast Cancer,Medical Procedures,cyclophosphamide Secondary malignant neoplasm of breast
+PREVENTS,phosphatidylinositols,Malignant neoplasm of breast,0.2977022977022977,Female Breast Cancer,Medical Procedures,phosphatidylinositols Malignant neoplasm of breast
