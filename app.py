@@ -33,12 +33,14 @@ def category_type(cancer_type, category_type):
 # Graph display route
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
-    graph_path = f'{category_type}_{cancer_type}/{graph}'
+    # Here, we directly use the graph name as it is stored without the prefix
+    graph_path = f'assets/graph/{category_type}/{graph}'
     return render_template('graph.html', graph_path=graph_path)
 
 @app.route('/assets/graph/<path:filename>')
 def serve_graph(filename):
     return send_from_directory('assets/graph', filename)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
