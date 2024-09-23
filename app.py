@@ -10,10 +10,9 @@ def get_categories_and_graphs(cancer_type, category_type):
         for filename in os.listdir(folder_path):
             if filename.endswith('.html'):
                 # Clean up the filename to display as a proper name in the frontend
-                graph_name = filename.replace(f'{category_type}_{cancer_type}_', '').replace('.html', '').replace('_', ' ')
+                graph_name = filename.replace(f'{category_type}_{cancer_type}_', '').replace('_', ' ').replace('.html', '')
                 graphs.append((graph_name, filename))  # Keep both clean name and actual filename
     return graphs
-
 
 # Homepage route
 @app.route('/')
@@ -34,12 +33,9 @@ def category_type(cancer_type, category_type):
 # Graph display route
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
-    graph_path = f'assets/graph/{category_type}_{cancer_type}/{graph}'
+    graph_path = f'{category_type}_{cancer_type}/{graph}'
     return render_template('graph.html', graph_path=graph_path)
 
-
-
-# Serve the graph HTML files
 @app.route('/assets/graph/<path:filename>')
 def serve_graph(filename):
     return send_from_directory('assets/graph', filename)
