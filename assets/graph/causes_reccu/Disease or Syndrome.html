@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([]);
-                  edges = new vis.DataSet([]);
+                  nodes = new vis.DataSet([{"color": "lightblue", "id": "Cardiovascular Diseases", "label": "Cardiovascular Diseases", "shape": "dot", "size": 15, "title": "Cardiovascular Diseases"}, {"color": "lightblue", "id": "Recurrent Breast Cancer", "label": "Recurrent Breast Cancer", "shape": "dot", "size": 15, "title": "Recurrent Breast Cancer"}, {"color": "lightblue", "id": "Lung Diseases, Interstitial", "label": "Lung Diseases, Interstitial", "shape": "dot", "size": 15, "title": "Lung Diseases, Interstitial"}, {"color": "lightblue", "id": "Primary disease", "label": "Primary disease", "shape": "dot", "size": 15, "title": "Primary disease"}, {"color": "lightblue", "id": "Metabolic syndrome", "label": "Metabolic syndrome", "shape": "dot", "size": 15, "title": "Metabolic syndrome"}]);
+                  edges = new vis.DataSet([{"color": "gray", "from": "Cardiovascular Diseases", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "Lung Diseases, Interstitial", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "Primary disease", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "Metabolic syndrome", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });

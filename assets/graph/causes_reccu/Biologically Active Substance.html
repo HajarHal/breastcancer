@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([]);
-                  edges = new vis.DataSet([]);
+                  nodes = new vis.DataSet([{"color": "lightblue", "id": "cytokine", "label": "cytokine", "shape": "dot", "size": 15, "title": "cytokine"}, {"color": "lightblue", "id": "Recurrent Breast Cancer", "label": "Recurrent Breast Cancer", "shape": "dot", "size": 15, "title": "Recurrent Breast Cancer"}]);
+                  edges = new vis.DataSet([{"color": "gray", "from": "cytokine", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });

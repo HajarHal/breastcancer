@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([]);
-                  edges = new vis.DataSet([]);
+                  nodes = new vis.DataSet([{"color": "lightblue", "id": "Tamoxifen", "label": "Tamoxifen", "shape": "dot", "size": 15, "title": "Tamoxifen"}, {"color": "lightblue", "id": "Recurrent Breast Cancer", "label": "Recurrent Breast Cancer", "shape": "dot", "size": 15, "title": "Recurrent Breast Cancer"}, {"color": "lightblue", "id": "Pharmaceutical Preparations", "label": "Pharmaceutical Preparations", "shape": "dot", "size": 15, "title": "Pharmaceutical Preparations"}, {"color": "lightblue", "id": "letrozole", "label": "letrozole", "shape": "dot", "size": 15, "title": "letrozole"}, {"color": "lightblue", "id": "Antirheumatic Drugs, Disease-Modifying", "label": "Antirheumatic Drugs, Disease-Modifying", "shape": "dot", "size": 15, "title": "Antirheumatic Drugs, Disease-Modifying"}]);
+                  edges = new vis.DataSet([{"color": "gray", "from": "Tamoxifen", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "Pharmaceutical Preparations", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "letrozole", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}, {"color": "gray", "from": "Antirheumatic Drugs, Disease-Modifying", "label": "0.0049950", "title": "Factuality Score: 0.0049950", "to": "Recurrent Breast Cancer"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });
