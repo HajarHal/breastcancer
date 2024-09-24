@@ -35,7 +35,8 @@ def category_type(cancer_type, category_type):
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
     graph_path = f'assets/graph/{category_type}_{cancer_type}/{graph}'
-    return render_template('graph.html', graph_path=graph_path)
+    clean_filename = graph.replace(f'{category_type}_{cancer_type}_', '').replace('_', ' ').replace('.html', '')
+    return render_template('graph.html', graph_path=graph_path, filename=clean_filename)
 
 
 @app.route('/causes_sta')
