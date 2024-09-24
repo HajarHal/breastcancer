@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template, send_from_directory
 import os
 
@@ -112,4 +111,3 @@ def serve_graph(category, filename):
 
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> c3bdb7549e5d8e1bf7dc50010c8da1db4a8a606a
