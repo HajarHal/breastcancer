@@ -9,8 +9,8 @@ def get_categories_and_graphs(cancer_type, category_type):
     if os.path.exists(folder_path):
         for filename in os.listdir(folder_path):
             if filename.endswith('.html'):
-                # Clean up the filename to display as a proper name in the frontend
-                graph_name = filename.replace(f'{category_type}_{cancer_type}_', '').replace('_', ' ').replace('.html', '')
+                # No need to remove the prefix anymore, just clean up underscores and the extension
+                graph_name = filename.replace('_', ' ').replace('.html', '')
                 graphs.append((graph_name, filename))  # Keep both clean name and actual filename
     return graphs
 
@@ -34,9 +34,18 @@ def category_type(cancer_type, category_type):
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
     graph_path = f'assets/graph/{category_type}_{cancer_type}/{graph}'
-    return render_template('graph.html', graph_path=graph_path)
+    clean_filename = graph.replace('_', ' ').replace('.html', '')  # No prefix removal required
+    return render_template('graph.html', graph_path=graph_path, filename=clean_filename)
 
-
+@app.route('/causes_sta')
+def causes_sta():
+    # Paths to the frequency graphs
+    frequencies = {
+        'female': 'stat/causes_female',
+        'male': 'stat/causes_male',
+        'recurrent': 'stat/causes_reccu'
+    }
+    return render_template('causes_sta.html', frequencies=frequencies)
 
 # Serve the graph HTML files
 @app.route('/assets/graph/<path:filename>')
