@@ -9,8 +9,13 @@ def get_categories_and_graphs(cancer_type, category_type):
     if os.path.exists(folder_path):
         for filename in os.listdir(folder_path):
             if filename.endswith('.html'):
+<<<<<<< HEAD
                 # Clean up the filename to display as a proper name in the frontend
                 graph_name = filename.replace(f'{category_type}_{cancer_type}_', '').replace('_', ' ').replace('.html', '')
+=======
+                # No need to remove the prefix anymore, just clean up underscores and the extension
+                graph_name = filename.replace('_', ' ').replace('.html', '')
+>>>>>>> f8830f10f5ac2d73655a6a3459bfccf4322a207d
                 graphs.append((graph_name, filename))  # Keep both clean name and actual filename
     return graphs
 
@@ -33,6 +38,7 @@ def category_type(cancer_type, category_type):
 # Graph display route
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
+<<<<<<< HEAD
     graph_path = f'/assets/graph/{category_type}_{cancer_type}/{graph}'
     return render_template('graph.html', cancer_type=cancer_type, category_type=category_type, graph_path=graph_path)
 
@@ -40,6 +46,24 @@ def graph(cancer_type, category_type, graph):
 @app.route('/assets/graph/<path:filename>')
 def serve_graph(filename):
     return send_from_directory('assets/graph', filename)
+=======
+    # Construct the correct path based on cancer_type and category_type
+    graph_path = f'assets/graph/{category_type}_{cancer_type}/{graph}'
+    
+    # No need to modify the filename; just pass the clean name for display
+    clean_filename = graph.replace('_', ' ').replace('.html', '')
+    
+    return render_template('graph.html', graph_path=graph_path, filename=clean_filename)
+
+
+
+# Serve the graph HTML files from the correct directory
+@app.route('/assets/graph/<category>/<filename>')
+def serve_graph(category, filename):
+    folder_path = os.path.join('assets', 'graph', category)
+    return send_from_directory(folder_path, filename)
+
+>>>>>>> f8830f10f5ac2d73655a6a3459bfccf4322a207d
 
 if __name__ == '__main__':
     app.run(debug=True)
