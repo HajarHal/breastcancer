@@ -33,24 +33,22 @@ def category_type(cancer_type, category_type):
 # Graph display route
 @app.route('/<cancer_type>/<category_type>/<graph>')
 def graph(cancer_type, category_type, graph):
+    # Construct the correct path based on cancer_type and category_type
     graph_path = f'assets/graph/{category_type}_{cancer_type}/{graph}'
-    clean_filename = graph.replace('_', ' ').replace('.html', '')  # No prefix removal required
+    
+    # No need to modify the filename; just pass the clean name for display
+    clean_filename = graph.replace('_', ' ').replace('.html', '')
+    
     return render_template('graph.html', graph_path=graph_path, filename=clean_filename)
 
-@app.route('/causes_sta')
-def causes_sta():
-    # Paths to the frequency graphs
-    frequencies = {
-        'female': 'stat/causes_female',
-        'male': 'stat/causes_male',
-        'recurrent': 'stat/causes_reccu'
-    }
-    return render_template('causes_sta.html', frequencies=frequencies)
 
-# Serve the graph HTML files
-@app.route('/assets/graph/<path:filename>')
-def serve_graph(filename):
-    return send_from_directory('assets/graph', filename)
+
+# Serve the graph HTML files from the correct directory
+@app.route('/assets/graph/<category>/<filename>')
+def serve_graph(category, filename):
+    folder_path = os.path.join('assets', 'graph', category)
+    return send_from_directory(folder_path, filename)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
